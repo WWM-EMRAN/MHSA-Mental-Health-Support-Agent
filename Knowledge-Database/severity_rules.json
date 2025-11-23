@@ -1,0 +1,15 @@
+{
+    "mild_threshold": 0.30,
+    "moderate_threshold": 0.60,
+    "severe_threshold": 0.85,
+    "category_weights": {
+        "anxiety": 0.8,
+        "depression": 1.0,
+        "stress": 0.6,
+        "trauma": 1.1,
+        "burnout": 0.7,
+        "bipolar": 1.2,
+        "OCD": 0.9,
+        "social_anxiety": 0.8
+    }
+}

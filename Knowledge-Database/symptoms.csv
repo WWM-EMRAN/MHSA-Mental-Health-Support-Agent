@@ -1,0 +1,501 @@
+symptom,category,description,severity_hint,overlap_groups
+elevated_energy_0,bipolar,sharp increase in energy levels (variant 0),mild,bipolar.energy
+worthlessness_1,depression,feelings of worthlessness (variant 1),moderate,mood.value
+symmetry_needs_2,OCD,urge for symmetry and exactness (variant 2),severe,ocd.order
+depressive_crash_3,bipolar,abrupt drop into depressive symptoms (variant 3),mild,bipolar.depression
+blushing_4,social_anxiety,excessive blushing in social situations (variant 4),moderate,social.physical
+flashbacks_5,PTSD,sudden intrusive trauma memories (variant 5),moderate,ptsd.intrusion
+avoidance_triggers_6,PTSD,avoiding trauma-related cues (variant 6),mild,ptsd.avoid
+hyperventilation_7,panic_disorder,breathing rapidly during episodes (variant 7),severe,panic.breath
+depressive_crash_8,bipolar,abrupt drop into depressive symptoms (variant 8),moderate,bipolar.depression
+contamination_fear_9,OCD,fear of contamination or germs (variant 9),moderate,ocd.fear
+burnout_signs_10,stress,classic burnout symptoms (variant 10),mild,stress.burnout
+lack_of_connection_11,loneliness,difficulty connecting with others (variant 11),mild,lonely.social
+sweating_12,panic_disorder,sudden sweating during panic attacks (variant 12),moderate,panic.physical
+social_avoidance_13,social_anxiety,avoiding social interactions (variant 13),moderate,social.avoid
+overthinking_14,stress,excessive thinking patterns (variant 14),severe,stress.cognitive
+self_doubt_15,depression,frequent self-doubting thoughts (variant 15),severe,mood.self
+detachment_16,burnout,emotional distance from work life (variant 16),mild,burnout.emotion
+burnout_signs_17,stress,classic burnout symptoms (variant 17),mild,stress.burnout
+avoidance_triggers_18,PTSD,avoiding trauma-related cues (variant 18),mild,ptsd.avoid
+fear_of_judgment_19,social_anxiety,fear of negative evaluation (variant 19),severe,social.fear
+dizziness_20,anxiety,feeling dizzy during tense moments (variant 20),moderate,anxiety.physical
+nightmares_21,PTSD,trauma-related nightmares (variant 21),severe,ptsd.sleep
+fear_of_judgment_22,social_anxiety,fear of negative evaluation (variant 22),moderate,social.fear
+restlessness_23,anxiety,persistent restless feelings (variant 23),mild,anxiety.general
+exhaustion_24,burnout,deep exhaustion from overwork (variant 24),mild,burnout.energy
+dizziness_25,anxiety,feeling dizzy during tense moments (variant 25),mild,anxiety.physical
+worthlessness_26,depression,feelings of worthlessness (variant 26),severe,mood.value
+impulsiveness_27,ADHD,acting without thinking (variant 27),mild,adhd.impulse
+easy_distractibility_28,ADHD,difficulty staying focused (variant 28),mild,adhd.attention
+elevated_energy_29,bipolar,sharp increase in energy levels (variant 29),severe,bipolar.energy
+emotional_numbness_30,PTSD,feeling emotionally disconnected (variant 30),moderate,ptsd.emotion
+muscle_tension_31,stress,tight muscles caused by stress (variant 31),severe,stress.physical
+social_avoidance_32,social_anxiety,avoiding social interactions (variant 32),moderate,social.avoid
+obsessive_thoughts_33,OCD,repeating intrusive thoughts (variant 33),moderate,ocd.obsession
+elevated_energy_34,bipolar,sharp increase in energy levels (variant 34),moderate,bipolar.energy
+fear_of_judgment_35,social_anxiety,fear of negative evaluation (variant 35),moderate,social.fear
+overthinking_36,stress,excessive thinking patterns (variant 36),moderate,stress.cognitive
+worthlessness_37,depression,feelings of worthlessness (variant 37),severe,mood.value
+low_energy_38,depression,persistent low energy affecting daily life (variant 38),moderate,mood.low
+depressive_crash_39,bipolar,abrupt drop into depressive symptoms (variant 39),mild,bipolar.depression
+dizziness_40,anxiety,feeling dizzy during tense moments (variant 40),moderate,anxiety.physical
+social_avoidance_41,social_anxiety,avoiding social interactions (variant 41),severe,social.avoid
+depressive_crash_42,bipolar,abrupt drop into depressive symptoms (variant 42),mild,bipolar.depression
+reduced_performance_43,burnout,decline in professional efficiency (variant 43),mild,burnout.performance
+blushing_44,social_anxiety,excessive blushing in social situations (variant 44),moderate,social.physical
+muscle_tension_45,stress,tight muscles caused by stress (variant 45),mild,stress.physical
+elevated_energy_46,bipolar,sharp increase in energy levels (variant 46),severe,bipolar.energy
+hopelessness_47,depression,feeling that nothing will improve (variant 47),mild,mood.hopeless
+hyperventilation_48,panic_disorder,breathing rapidly during episodes (variant 48),moderate,panic.breath
+fast_heartbeat_49,anxiety,rapid heartbeats during stress (variant 49),severe,anxiety.physical
+impulsiveness_50,ADHD,acting without thinking (variant 50),moderate,adhd.impulse
+social_avoidance_51,social_anxiety,avoiding social interactions (variant 51),moderate,social.avoid
+emotional_numbness_52,PTSD,feeling emotionally disconnected (variant 52),mild,ptsd.emotion
+sweating_53,panic_disorder,sudden sweating during panic attacks (variant 53),moderate,panic.physical
+low_energy_54,depression,persistent low energy affecting daily life (variant 54),mild,mood.low
+fidgeting_55,ADHD,inability to stay still (variant 55),severe,adhd.behavior
+risky_behavior_56,bipolar,risk-taking behaviors (variant 56),severe,bipolar.impulse
+fear_of_losing_control_57,panic_disorder,fear of losing control in public (variant 57),severe,panic.fear
+detachment_58,burnout,emotional distance from work life (variant 58),moderate,burnout.emotion
+sweating_59,panic_disorder,sudden sweating during panic attacks (variant 59),severe,panic.physical
+rapid_speech_60,bipolar,very fast and pressured speech (variant 60),severe,bipolar.mania
+tight_chest_61,anxiety,chest tightness during anxious moments (variant 61),severe,anxiety.somatic
+hyperventilation_62,panic_disorder,breathing rapidly during episodes (variant 62),severe,panic.breath
+emotional_numbness_63,PTSD,feeling emotionally disconnected (variant 63),moderate,ptsd.emotion
+symmetry_needs_64,OCD,urge for symmetry and exactness (variant 64),moderate,ocd.order
+rapid_speech_65,bipolar,very fast and pressured speech (variant 65),moderate,bipolar.mania
+fidgeting_66,ADHD,inability to stay still (variant 66),severe,adhd.behavior
+exhaustion_67,burnout,deep exhaustion from overwork (variant 67),mild,burnout.energy
+restlessness_68,anxiety,persistent restless feelings (variant 68),mild,anxiety.general
+dizziness_69,anxiety,feeling dizzy during tense moments (variant 69),moderate,anxiety.physical
+social_avoidance_70,social_anxiety,avoiding social interactions (variant 70),moderate,social.avoid
+fast_heartbeat_71,anxiety,rapid heartbeats during stress (variant 71),moderate,anxiety.physical
+nightmares_72,PTSD,trauma-related nightmares (variant 72),severe,ptsd.sleep
+emotional_numbness_73,PTSD,feeling emotionally disconnected (variant 73),mild,ptsd.emotion
+hyperventilation_74,panic_disorder,breathing rapidly during episodes (variant 74),moderate,panic.breath
+restlessness_75,anxiety,persistent restless feelings (variant 75),moderate,anxiety.general
+rapid_speech_76,bipolar,very fast and pressured speech (variant 76),mild,bipolar.mania
+self_doubt_77,depression,frequent self-doubting thoughts (variant 77),mild,mood.self
+fear_of_judgment_78,social_anxiety,fear of negative evaluation (variant 78),severe,social.fear
+burnout_signs_79,stress,classic burnout symptoms (variant 79),moderate,stress.burnout
+checking_behavior_80,OCD,checking locks or stoves repeatedly (variant 80),moderate,ocd.compulsion
+risky_behavior_81,bipolar,risk-taking behaviors (variant 81),severe,bipolar.impulse
+depressive_crash_82,bipolar,abrupt drop into depressive symptoms (variant 82),mild,bipolar.depression
+crying_spells_83,depression,unexpected crying spells (variant 83),mild,mood.tears
+isolation_feelings_84,loneliness,persistent feeling of isolation (variant 84),mild,lonely.emotion
+reduced_performance_85,burnout,decline in professional efficiency (variant 85),mild,burnout.performance
+impulsiveness_86,ADHD,acting without thinking (variant 86),mild,adhd.impulse
+fear_of_judgment_87,social_anxiety,fear of negative evaluation (variant 87),moderate,social.fear
+sweating_88,panic_disorder,sudden sweating during panic attacks (variant 88),moderate,panic.physical
+detachment_89,burnout,emotional distance from work life (variant 89),severe,burnout.emotion
+poor_sleep_90,depression,sleep difficulties linked to mood issues (variant 90),moderate,mood.sleep
+isolation_feelings_91,loneliness,persistent feeling of isolation (variant 91),severe,lonely.emotion
+risky_behavior_92,bipolar,risk-taking behaviors (variant 92),moderate,bipolar.impulse
+low_energy_93,depression,persistent low energy affecting daily life (variant 93),moderate,mood.low
+impulsiveness_94,ADHD,acting without thinking (variant 94),mild,adhd.impulse
+social_avoidance_95,social_anxiety,avoiding social interactions (variant 95),mild,social.avoid
+easy_distractibility_96,ADHD,difficulty staying focused (variant 96),mild,adhd.attention
+social_avoidance_97,social_anxiety,avoiding social interactions (variant 97),mild,social.avoid
+depressive_crash_98,bipolar,abrupt drop into depressive symptoms (variant 98),mild,bipolar.depression
+forgetfulness_99,ADHD,consistently forgetting tasks (variant 99),severe,adhd.memory
+fear_of_judgment_100,social_anxiety,fear of negative evaluation (variant 100),moderate,social.fear
+symmetry_needs_101,OCD,urge for symmetry and exactness (variant 101),severe,ocd.order
+hyperventilation_102,panic_disorder,breathing rapidly during episodes (variant 102),moderate,panic.breath
+worthlessness_103,depression,feelings of worthlessness (variant 103),mild,mood.value
+flashbacks_104,PTSD,sudden intrusive trauma memories (variant 104),mild,ptsd.intrusion
+impulsiveness_105,ADHD,acting without thinking (variant 105),severe,adhd.impulse
+checking_behavior_106,OCD,checking locks or stoves repeatedly (variant 106),mild,ocd.compulsion
+sweating_107,panic_disorder,sudden sweating during panic attacks (variant 107),severe,panic.physical
+elevated_energy_108,bipolar,sharp increase in energy levels (variant 108),mild,bipolar.energy
+reduced_performance_109,burnout,decline in professional efficiency (variant 109),moderate,burnout.performance
+flashbacks_110,PTSD,sudden intrusive trauma memories (variant 110),severe,ptsd.intrusion
+lack_of_connection_111,loneliness,difficulty connecting with others (variant 111),severe,lonely.social
+depressive_crash_112,bipolar,abrupt drop into depressive symptoms (variant 112),severe,bipolar.depression
+fear_of_judgment_113,social_anxiety,fear of negative evaluation (variant 113),moderate,social.fear
+lack_of_connection_114,loneliness,difficulty connecting with others (variant 114),mild,lonely.social
+hopelessness_115,depression,feeling that nothing will improve (variant 115),severe,mood.hopeless
+flashbacks_116,PTSD,sudden intrusive trauma memories (variant 116),severe,ptsd.intrusion
+checking_behavior_117,OCD,checking locks or stoves repeatedly (variant 117),moderate,ocd.compulsion
+avoidance_triggers_118,PTSD,avoiding trauma-related cues (variant 118),severe,ptsd.avoid
+exhaustion_119,burnout,deep exhaustion from overwork (variant 119),mild,burnout.energy
+symmetry_needs_120,OCD,urge for symmetry and exactness (variant 120),moderate,ocd.order
+self_doubt_121,depression,frequent self-doubting thoughts (variant 121),moderate,mood.self
+detachment_122,burnout,emotional distance from work life (variant 122),mild,burnout.emotion
+depressive_crash_123,bipolar,abrupt drop into depressive symptoms (variant 123),severe,bipolar.depression
+self_doubt_124,depression,frequent self-doubting thoughts (variant 124),moderate,mood.self
+risky_behavior_125,bipolar,risk-taking behaviors (variant 125),severe,bipolar.impulse
+contamination_fear_126,OCD,fear of contamination or germs (variant 126),mild,ocd.fear
+worthlessness_127,depression,feelings of worthlessness (variant 127),moderate,mood.value
+impulsiveness_128,ADHD,acting without thinking (variant 128),severe,adhd.impulse
+trembling_129,panic_disorder,full-body trembling (variant 129),mild,panic.somatic
+emotional_numbness_130,PTSD,feeling emotionally disconnected (variant 130),severe,ptsd.emotion
+fast_heartbeat_131,anxiety,rapid heartbeats during stress (variant 131),moderate,anxiety.physical
+exhaustion_132,burnout,deep exhaustion from overwork (variant 132),moderate,burnout.energy
+risky_behavior_133,bipolar,risk-taking behaviors (variant 133),mild,bipolar.impulse
+fear_of_uncertainty_134,anxiety,fear of unpredictable events (variant 134),mild,anxiety.fear
+risky_behavior_135,bipolar,risk-taking behaviors (variant 135),mild,bipolar.impulse
+worrying_136,anxiety,chronic worrying about daily life (variant 136),moderate,anxiety.cognitive
+obsessive_thoughts_137,OCD,repeating intrusive thoughts (variant 137),severe,ocd.obsession
+muscle_tension_138,stress,tight muscles caused by stress (variant 138),mild,stress.physical
+avoidance_triggers_139,PTSD,avoiding trauma-related cues (variant 139),moderate,ptsd.avoid
+impulsiveness_140,ADHD,acting without thinking (variant 140),moderate,adhd.impulse
+nightmares_141,PTSD,trauma-related nightmares (variant 141),severe,ptsd.sleep
+easy_distractibility_142,ADHD,difficulty staying focused (variant 142),mild,adhd.attention
+fast_heartbeat_143,anxiety,rapid heartbeats during stress (variant 143),moderate,anxiety.physical
+worrying_144,anxiety,chronic worrying about daily life (variant 144),mild,anxiety.cognitive
+risky_behavior_145,bipolar,risk-taking behaviors (variant 145),mild,bipolar.impulse
+impulsiveness_146,ADHD,acting without thinking (variant 146),severe,adhd.impulse
+hopelessness_147,depression,feeling that nothing will improve (variant 147),mild,mood.hopeless
+obsessive_thoughts_148,OCD,repeating intrusive thoughts (variant 148),mild,ocd.obsession
+fear_of_losing_control_149,panic_disorder,fear of losing control in public (variant 149),moderate,panic.fear
+elevated_energy_150,bipolar,sharp increase in energy levels (variant 150),severe,bipolar.energy
+worthlessness_151,depression,feelings of worthlessness (variant 151),moderate,mood.value
+crying_spells_152,depression,unexpected crying spells (variant 152),moderate,mood.tears
+hyperventilation_153,panic_disorder,breathing rapidly during episodes (variant 153),moderate,panic.breath
+sweating_154,panic_disorder,sudden sweating during panic attacks (variant 154),mild,panic.physical
+hopelessness_155,depression,feeling that nothing will improve (variant 155),moderate,mood.hopeless
+tight_chest_156,anxiety,chest tightness during anxious moments (variant 156),moderate,anxiety.somatic
+blushing_157,social_anxiety,excessive blushing in social situations (variant 157),mild,social.physical
+forgetfulness_158,ADHD,consistently forgetting tasks (variant 158),mild,adhd.memory
+elevated_energy_159,bipolar,sharp increase in energy levels (variant 159),severe,bipolar.energy
+overthinking_160,stress,excessive thinking patterns (variant 160),mild,stress.cognitive
+reduced_performance_161,burnout,decline in professional efficiency (variant 161),mild,burnout.performance
+forgetfulness_162,ADHD,consistently forgetting tasks (variant 162),mild,adhd.memory
+isolation_feelings_163,loneliness,persistent feeling of isolation (variant 163),mild,lonely.emotion
+fast_heartbeat_164,anxiety,rapid heartbeats during stress (variant 164),moderate,anxiety.physical
+fear_of_uncertainty_165,anxiety,fear of unpredictable events (variant 165),moderate,anxiety.fear
+blushing_166,social_anxiety,excessive blushing in social situations (variant 166),moderate,social.physical
+detachment_167,burnout,emotional distance from work life (variant 167),mild,burnout.emotion
+isolation_feelings_168,loneliness,persistent feeling of isolation (variant 168),severe,lonely.emotion
+risky_behavior_169,bipolar,risk-taking behaviors (variant 169),moderate,bipolar.impulse
+muscle_tension_170,stress,tight muscles caused by stress (variant 170),severe,stress.physical
+symmetry_needs_171,OCD,urge for symmetry and exactness (variant 171),severe,ocd.order
+emotional_numbness_172,PTSD,feeling emotionally disconnected (variant 172),moderate,ptsd.emotion
+contamination_fear_173,OCD,fear of contamination or germs (variant 173),mild,ocd.fear
+exhaustion_174,burnout,deep exhaustion from overwork (variant 174),severe,burnout.energy
+fast_heartbeat_175,anxiety,rapid heartbeats during stress (variant 175),severe,anxiety.physical
+forgetfulness_176,ADHD,consistently forgetting tasks (variant 176),mild,adhd.memory
+contamination_fear_177,OCD,fear of contamination or germs (variant 177),moderate,ocd.fear
+obsessive_thoughts_178,OCD,repeating intrusive thoughts (variant 178),mild,ocd.obsession
+fast_heartbeat_179,anxiety,rapid heartbeats during stress (variant 179),mild,anxiety.physical
+hyperventilation_180,panic_disorder,breathing rapidly during episodes (variant 180),severe,panic.breath
+burnout_signs_181,stress,classic burnout symptoms (variant 181),severe,stress.burnout
+flashbacks_182,PTSD,sudden intrusive trauma memories (variant 182),mild,ptsd.intrusion
+detachment_183,burnout,emotional distance from work life (variant 183),severe,burnout.emotion
+muscle_tension_184,stress,tight muscles caused by stress (variant 184),mild,stress.physical
+easy_distractibility_185,ADHD,difficulty staying focused (variant 185),mild,adhd.attention
+nightmares_186,PTSD,trauma-related nightmares (variant 186),moderate,ptsd.sleep
+detachment_187,burnout,emotional distance from work life (variant 187),mild,burnout.emotion
+isolation_feelings_188,loneliness,persistent feeling of isolation (variant 188),moderate,lonely.emotion
+nightmares_189,PTSD,trauma-related nightmares (variant 189),mild,ptsd.sleep
+risky_behavior_190,bipolar,risk-taking behaviors (variant 190),severe,bipolar.impulse
+obsessive_thoughts_191,OCD,repeating intrusive thoughts (variant 191),mild,ocd.obsession
+crying_spells_192,depression,unexpected crying spells (variant 192),moderate,mood.tears
+social_avoidance_193,social_anxiety,avoiding social interactions (variant 193),severe,social.avoid
+elevated_energy_194,bipolar,sharp increase in energy levels (variant 194),mild,bipolar.energy
+low_energy_195,depression,persistent low energy affecting daily life (variant 195),severe,mood.low
+isolation_feelings_196,loneliness,persistent feeling of isolation (variant 196),mild,lonely.emotion
+self_doubt_197,depression,frequent self-doubting thoughts (variant 197),mild,mood.self
+self_doubt_198,depression,frequent self-doubting thoughts (variant 198),severe,mood.self
+tight_chest_199,anxiety,chest tightness during anxious moments (variant 199),mild,anxiety.somatic
+rapid_speech_200,bipolar,very fast and pressured speech (variant 200),mild,bipolar.mania
+flashbacks_201,PTSD,sudden intrusive trauma memories (variant 201),severe,ptsd.intrusion
+fast_heartbeat_202,anxiety,rapid heartbeats during stress (variant 202),severe,anxiety.physical
+poor_sleep_203,depression,sleep difficulties linked to mood issues (variant 203),moderate,mood.sleep
+avoidance_triggers_204,PTSD,avoiding trauma-related cues (variant 204),mild,ptsd.avoid
+low_energy_205,depression,persistent low energy affecting daily life (variant 205),severe,mood.low
+risky_behavior_206,bipolar,risk-taking behaviors (variant 206),moderate,bipolar.impulse
+symmetry_needs_207,OCD,urge for symmetry and exactness (variant 207),moderate,ocd.order
+depressive_crash_208,bipolar,abrupt drop into depressive symptoms (variant 208),moderate,bipolar.depression
+fear_of_uncertainty_209,anxiety,fear of unpredictable events (variant 209),mild,anxiety.fear
+self_doubt_210,depression,frequent self-doubting thoughts (variant 210),mild,mood.self
+fast_heartbeat_211,anxiety,rapid heartbeats during stress (variant 211),mild,anxiety.physical
+risky_behavior_212,bipolar,risk-taking behaviors (variant 212),mild,bipolar.impulse
+self_doubt_213,depression,frequent self-doubting thoughts (variant 213),severe,mood.self
+fast_heartbeat_214,anxiety,rapid heartbeats during stress (variant 214),severe,anxiety.physical
+worthlessness_215,depression,feelings of worthlessness (variant 215),severe,mood.value
+fear_of_uncertainty_216,anxiety,fear of unpredictable events (variant 216),moderate,anxiety.fear
+dizziness_217,anxiety,feeling dizzy during tense moments (variant 217),severe,anxiety.physical
+nightmares_218,PTSD,trauma-related nightmares (variant 218),severe,ptsd.sleep
+symmetry_needs_219,OCD,urge for symmetry and exactness (variant 219),moderate,ocd.order
+fear_of_judgment_220,social_anxiety,fear of negative evaluation (variant 220),moderate,social.fear
+symmetry_needs_221,OCD,urge for symmetry and exactness (variant 221),moderate,ocd.order
+tight_chest_222,anxiety,chest tightness during anxious moments (variant 222),severe,anxiety.somatic
+social_avoidance_223,social_anxiety,avoiding social interactions (variant 223),moderate,social.avoid
+muscle_tension_224,stress,tight muscles caused by stress (variant 224),moderate,stress.physical
+reduced_performance_225,burnout,decline in professional efficiency (variant 225),mild,burnout.performance
+avoidance_triggers_226,PTSD,avoiding trauma-related cues (variant 226),severe,ptsd.avoid
+fidgeting_227,ADHD,inability to stay still (variant 227),severe,adhd.behavior
+checking_behavior_228,OCD,checking locks or stoves repeatedly (variant 228),moderate,ocd.compulsion
+risky_behavior_229,bipolar,risk-taking behaviors (variant 229),mild,bipolar.impulse
+exhaustion_230,burnout,deep exhaustion from overwork (variant 230),severe,burnout.energy
+rapid_speech_231,bipolar,very fast and pressured speech (variant 231),moderate,bipolar.mania
+flashbacks_232,PTSD,sudden intrusive trauma memories (variant 232),severe,ptsd.intrusion
+contamination_fear_233,OCD,fear of contamination or germs (variant 233),moderate,ocd.fear
+detachment_234,burnout,emotional distance from work life (variant 234),moderate,burnout.emotion
+social_avoidance_235,social_anxiety,avoiding social interactions (variant 235),mild,social.avoid
+fidgeting_236,ADHD,inability to stay still (variant 236),mild,adhd.behavior
+elevated_energy_237,bipolar,sharp increase in energy levels (variant 237),mild,bipolar.energy
+fear_of_uncertainty_238,anxiety,fear of unpredictable events (variant 238),mild,anxiety.fear
+worthlessness_239,depression,feelings of worthlessness (variant 239),moderate,mood.value
+worrying_240,anxiety,chronic worrying about daily life (variant 240),moderate,anxiety.cognitive
+reduced_performance_241,burnout,decline in professional efficiency (variant 241),moderate,burnout.performance
+blushing_242,social_anxiety,excessive blushing in social situations (variant 242),moderate,social.physical
+tight_chest_243,anxiety,chest tightness during anxious moments (variant 243),moderate,anxiety.somatic
+fast_heartbeat_244,anxiety,rapid heartbeats during stress (variant 244),mild,anxiety.physical
+detachment_245,burnout,emotional distance from work life (variant 245),moderate,burnout.emotion
+lack_of_connection_246,loneliness,difficulty connecting with others (variant 246),severe,lonely.social
+elevated_energy_247,bipolar,sharp increase in energy levels (variant 247),severe,bipolar.energy
+crying_spells_248,depression,unexpected crying spells (variant 248),mild,mood.tears
+forgetfulness_249,ADHD,consistently forgetting tasks (variant 249),moderate,adhd.memory
+hyperventilation_250,panic_disorder,breathing rapidly during episodes (variant 250),mild,panic.breath
+exhaustion_251,burnout,deep exhaustion from overwork (variant 251),severe,burnout.energy
+fidgeting_252,ADHD,inability to stay still (variant 252),moderate,adhd.behavior
+dizziness_253,anxiety,feeling dizzy during tense moments (variant 253),mild,anxiety.physical
+worrying_254,anxiety,chronic worrying about daily life (variant 254),mild,anxiety.cognitive
+impulsiveness_255,ADHD,acting without thinking (variant 255),severe,adhd.impulse
+depressive_crash_256,bipolar,abrupt drop into depressive symptoms (variant 256),severe,bipolar.depression
+easy_distractibility_257,ADHD,difficulty staying focused (variant 257),severe,adhd.attention
+dizziness_258,anxiety,feeling dizzy during tense moments (variant 258),mild,anxiety.physical
+forgetfulness_259,ADHD,consistently forgetting tasks (variant 259),severe,adhd.memory
+worrying_260,anxiety,chronic worrying about daily life (variant 260),mild,anxiety.cognitive
+rapid_speech_261,bipolar,very fast and pressured speech (variant 261),mild,bipolar.mania
+self_doubt_262,depression,frequent self-doubting thoughts (variant 262),severe,mood.self
+impulsiveness_263,ADHD,acting without thinking (variant 263),moderate,adhd.impulse
+worthlessness_264,depression,feelings of worthlessness (variant 264),moderate,mood.value
+sweating_265,panic_disorder,sudden sweating during panic attacks (variant 265),severe,panic.physical
+restlessness_266,anxiety,persistent restless feelings (variant 266),mild,anxiety.general
+burnout_signs_267,stress,classic burnout symptoms (variant 267),moderate,stress.burnout
+social_avoidance_268,social_anxiety,avoiding social interactions (variant 268),mild,social.avoid
+obsessive_thoughts_269,OCD,repeating intrusive thoughts (variant 269),moderate,ocd.obsession
+impulsiveness_270,ADHD,acting without thinking (variant 270),moderate,adhd.impulse
+exhaustion_271,burnout,deep exhaustion from overwork (variant 271),mild,burnout.energy
+blushing_272,social_anxiety,excessive blushing in social situations (variant 272),moderate,social.physical
+impulsiveness_273,ADHD,acting without thinking (variant 273),severe,adhd.impulse
+restlessness_274,anxiety,persistent restless feelings (variant 274),mild,anxiety.general
+poor_sleep_275,depression,sleep difficulties linked to mood issues (variant 275),mild,mood.sleep
+sweating_276,panic_disorder,sudden sweating during panic attacks (variant 276),severe,panic.physical
+worrying_277,anxiety,chronic worrying about daily life (variant 277),severe,anxiety.cognitive
+fast_heartbeat_278,anxiety,rapid heartbeats during stress (variant 278),moderate,anxiety.physical
+fidgeting_279,ADHD,inability to stay still (variant 279),moderate,adhd.behavior
+burnout_signs_280,stress,classic burnout symptoms (variant 280),severe,stress.burnout
+fear_of_losing_control_281,panic_disorder,fear of losing control in public (variant 281),moderate,panic.fear
+fear_of_losing_control_282,panic_disorder,fear of losing control in public (variant 282),moderate,panic.fear
+sweating_283,panic_disorder,sudden sweating during panic attacks (variant 283),severe,panic.physical
+blushing_284,social_anxiety,excessive blushing in social situations (variant 284),moderate,social.physical
+fidgeting_285,ADHD,inability to stay still (variant 285),mild,adhd.behavior
+self_doubt_286,depression,frequent self-doubting thoughts (variant 286),severe,mood.self
+easy_distractibility_287,ADHD,difficulty staying focused (variant 287),severe,adhd.attention
+fear_of_uncertainty_288,anxiety,fear of unpredictable events (variant 288),moderate,anxiety.fear
+contamination_fear_289,OCD,fear of contamination or germs (variant 289),severe,ocd.fear
+low_energy_290,depression,persistent low energy affecting daily life (variant 290),mild,mood.low
+trembling_291,panic_disorder,full-body trembling (variant 291),mild,panic.somatic
+fast_heartbeat_292,anxiety,rapid heartbeats during stress (variant 292),severe,anxiety.physical
+muscle_tension_293,stress,tight muscles caused by stress (variant 293),severe,stress.physical
+flashbacks_294,PTSD,sudden intrusive trauma memories (variant 294),severe,ptsd.intrusion
+lack_of_connection_295,loneliness,difficulty connecting with others (variant 295),severe,lonely.social
+worrying_296,anxiety,chronic worrying about daily life (variant 296),severe,anxiety.cognitive
+forgetfulness_297,ADHD,consistently forgetting tasks (variant 297),severe,adhd.memory
+social_withdrawal_298,depression,avoiding social interactions (variant 298),severe,mood.isolation
+worrying_299,anxiety,chronic worrying about daily life (variant 299),severe,anxiety.cognitive
+social_withdrawal_300,depression,avoiding social interactions (variant 300),moderate,mood.isolation
+fidgeting_301,ADHD,inability to stay still (variant 301),severe,adhd.behavior
+hopelessness_302,depression,feeling that nothing will improve (variant 302),moderate,mood.hopeless
+burnout_signs_303,stress,classic burnout symptoms (variant 303),moderate,stress.burnout
+detachment_304,burnout,emotional distance from work life (variant 304),mild,burnout.emotion
+hopelessness_305,depression,feeling that nothing will improve (variant 305),mild,mood.hopeless
+elevated_energy_306,bipolar,sharp increase in energy levels (variant 306),severe,bipolar.energy
+fast_heartbeat_307,anxiety,rapid heartbeats during stress (variant 307),moderate,anxiety.physical
+contamination_fear_308,OCD,fear of contamination or germs (variant 308),mild,ocd.fear
+detachment_309,burnout,emotional distance from work life (variant 309),severe,burnout.emotion
+checking_behavior_310,OCD,checking locks or stoves repeatedly (variant 310),severe,ocd.compulsion
+worrying_311,anxiety,chronic worrying about daily life (variant 311),severe,anxiety.cognitive
+contamination_fear_312,OCD,fear of contamination or germs (variant 312),moderate,ocd.fear
+dizziness_313,anxiety,feeling dizzy during tense moments (variant 313),mild,anxiety.physical
+rapid_speech_314,bipolar,very fast and pressured speech (variant 314),mild,bipolar.mania
+elevated_energy_315,bipolar,sharp increase in energy levels (variant 315),mild,bipolar.energy
+reduced_performance_316,burnout,decline in professional efficiency (variant 316),severe,burnout.performance
+lack_of_connection_317,loneliness,difficulty connecting with others (variant 317),mild,lonely.social
+sweating_318,panic_disorder,sudden sweating during panic attacks (variant 318),severe,panic.physical
+fear_of_judgment_319,social_anxiety,fear of negative evaluation (variant 319),severe,social.fear
+poor_sleep_320,depression,sleep difficulties linked to mood issues (variant 320),severe,mood.sleep
+worrying_321,anxiety,chronic worrying about daily life (variant 321),mild,anxiety.cognitive
+social_withdrawal_322,depression,avoiding social interactions (variant 322),moderate,mood.isolation
+self_doubt_323,depression,frequent self-doubting thoughts (variant 323),moderate,mood.self
+blushing_324,social_anxiety,excessive blushing in social situations (variant 324),mild,social.physical
+flashbacks_325,PTSD,sudden intrusive trauma memories (variant 325),severe,ptsd.intrusion
+blushing_326,social_anxiety,excessive blushing in social situations (variant 326),moderate,social.physical
+worrying_327,anxiety,chronic worrying about daily life (variant 327),mild,anxiety.cognitive
+impulsiveness_328,ADHD,acting without thinking (variant 328),moderate,adhd.impulse
+fidgeting_329,ADHD,inability to stay still (variant 329),severe,adhd.behavior
+avoidance_triggers_330,PTSD,avoiding trauma-related cues (variant 330),severe,ptsd.avoid
+exhaustion_331,burnout,deep exhaustion from overwork (variant 331),mild,burnout.energy
+checking_behavior_332,OCD,checking locks or stoves repeatedly (variant 332),moderate,ocd.compulsion
+tight_chest_333,anxiety,chest tightness during anxious moments (variant 333),moderate,anxiety.somatic
+poor_sleep_334,depression,sleep difficulties linked to mood issues (variant 334),severe,mood.sleep
+symmetry_needs_335,OCD,urge for symmetry and exactness (variant 335),severe,ocd.order
+lack_of_connection_336,loneliness,difficulty connecting with others (variant 336),mild,lonely.social
+nightmares_337,PTSD,trauma-related nightmares (variant 337),moderate,ptsd.sleep
+muscle_tension_338,stress,tight muscles caused by stress (variant 338),severe,stress.physical
+contamination_fear_339,OCD,fear of contamination or germs (variant 339),moderate,ocd.fear
+overthinking_340,stress,excessive thinking patterns (variant 340),mild,stress.cognitive
+lack_of_connection_341,loneliness,difficulty connecting with others (variant 341),mild,lonely.social
+easy_distractibility_342,ADHD,difficulty staying focused (variant 342),mild,adhd.attention
+lack_of_connection_343,loneliness,difficulty connecting with others (variant 343),mild,lonely.social
+burnout_signs_344,stress,classic burnout symptoms (variant 344),mild,stress.burnout
+worrying_345,anxiety,chronic worrying about daily life (variant 345),mild,anxiety.cognitive
+fear_of_judgment_346,social_anxiety,fear of negative evaluation (variant 346),mild,social.fear
+risky_behavior_347,bipolar,risk-taking behaviors (variant 347),mild,bipolar.impulse
+overthinking_348,stress,excessive thinking patterns (variant 348),mild,stress.cognitive
+burnout_signs_349,stress,classic burnout symptoms (variant 349),mild,stress.burnout
+dizziness_350,anxiety,feeling dizzy during tense moments (variant 350),moderate,anxiety.physical
+blushing_351,social_anxiety,excessive blushing in social situations (variant 351),severe,social.physical
+poor_sleep_352,depression,sleep difficulties linked to mood issues (variant 352),severe,mood.sleep
+avoidance_triggers_353,PTSD,avoiding trauma-related cues (variant 353),moderate,ptsd.avoid
+overthinking_354,stress,excessive thinking patterns (variant 354),moderate,stress.cognitive
+self_doubt_355,depression,frequent self-doubting thoughts (variant 355),moderate,mood.self
+symmetry_needs_356,OCD,urge for symmetry and exactness (variant 356),moderate,ocd.order
+sweating_357,panic_disorder,sudden sweating during panic attacks (variant 357),moderate,panic.physical
+trembling_358,panic_disorder,full-body trembling (variant 358),moderate,panic.somatic
+social_withdrawal_359,depression,avoiding social interactions (variant 359),severe,mood.isolation
+sweating_360,panic_disorder,sudden sweating during panic attacks (variant 360),severe,panic.physical
+flashbacks_361,PTSD,sudden intrusive trauma memories (variant 361),moderate,ptsd.intrusion
+fear_of_losing_control_362,panic_disorder,fear of losing control in public (variant 362),severe,panic.fear
+hopelessness_363,depression,feeling that nothing will improve (variant 363),moderate,mood.hopeless
+trembling_364,panic_disorder,full-body trembling (variant 364),severe,panic.somatic
+dizziness_365,anxiety,feeling dizzy during tense moments (variant 365),moderate,anxiety.physical
+blushing_366,social_anxiety,excessive blushing in social situations (variant 366),mild,social.physical
+impulsiveness_367,ADHD,acting without thinking (variant 367),severe,adhd.impulse
+rapid_speech_368,bipolar,very fast and pressured speech (variant 368),moderate,bipolar.mania
+detachment_369,burnout,emotional distance from work life (variant 369),moderate,burnout.emotion
+rapid_speech_370,bipolar,very fast and pressured speech (variant 370),mild,bipolar.mania
+fear_of_uncertainty_371,anxiety,fear of unpredictable events (variant 371),severe,anxiety.fear
+fear_of_judgment_372,social_anxiety,fear of negative evaluation (variant 372),severe,social.fear
+worrying_373,anxiety,chronic worrying about daily life (variant 373),moderate,anxiety.cognitive
+overthinking_374,stress,excessive thinking patterns (variant 374),mild,stress.cognitive
+worthlessness_375,depression,feelings of worthlessness (variant 375),severe,mood.value
+emotional_numbness_376,PTSD,feeling emotionally disconnected (variant 376),severe,ptsd.emotion
+sweating_377,panic_disorder,sudden sweating during panic attacks (variant 377),mild,panic.physical
+social_avoidance_378,social_anxiety,avoiding social interactions (variant 378),mild,social.avoid
+fidgeting_379,ADHD,inability to stay still (variant 379),severe,adhd.behavior
+lack_of_connection_380,loneliness,difficulty connecting with others (variant 380),mild,lonely.social
+worrying_381,anxiety,chronic worrying about daily life (variant 381),moderate,anxiety.cognitive
+social_avoidance_382,social_anxiety,avoiding social interactions (variant 382),severe,social.avoid
+obsessive_thoughts_383,OCD,repeating intrusive thoughts (variant 383),mild,ocd.obsession
+muscle_tension_384,stress,tight muscles caused by stress (variant 384),mild,stress.physical
+fear_of_uncertainty_385,anxiety,fear of unpredictable events (variant 385),mild,anxiety.fear
+isolation_feelings_386,loneliness,persistent feeling of isolation (variant 386),moderate,lonely.emotion
+fear_of_losing_control_387,panic_disorder,fear of losing control in public (variant 387),mild,panic.fear
+trembling_388,panic_disorder,full-body trembling (variant 388),severe,panic.somatic
+muscle_tension_389,stress,tight muscles caused by stress (variant 389),moderate,stress.physical
+dizziness_390,anxiety,feeling dizzy during tense moments (variant 390),mild,anxiety.physical
+low_energy_391,depression,persistent low energy affecting daily life (variant 391),severe,mood.low
+elevated_energy_392,bipolar,sharp increase in energy levels (variant 392),severe,bipolar.energy
+overthinking_393,stress,excessive thinking patterns (variant 393),moderate,stress.cognitive
+muscle_tension_394,stress,tight muscles caused by stress (variant 394),moderate,stress.physical
+fear_of_uncertainty_395,anxiety,fear of unpredictable events (variant 395),moderate,anxiety.fear
+obsessive_thoughts_396,OCD,repeating intrusive thoughts (variant 396),moderate,ocd.obsession
+crying_spells_397,depression,unexpected crying spells (variant 397),severe,mood.tears
+fear_of_judgment_398,social_anxiety,fear of negative evaluation (variant 398),moderate,social.fear
+depressive_crash_399,bipolar,abrupt drop into depressive symptoms (variant 399),severe,bipolar.depression
+elevated_energy_400,bipolar,sharp increase in energy levels (variant 400),severe,bipolar.energy
+forgetfulness_401,ADHD,consistently forgetting tasks (variant 401),severe,adhd.memory
+low_energy_402,depression,persistent low energy affecting daily life (variant 402),severe,mood.low
+muscle_tension_403,stress,tight muscles caused by stress (variant 403),severe,stress.physical
+fear_of_judgment_404,social_anxiety,fear of negative evaluation (variant 404),moderate,social.fear
+self_doubt_405,depression,frequent self-doubting thoughts (variant 405),mild,mood.self
+checking_behavior_406,OCD,checking locks or stoves repeatedly (variant 406),moderate,ocd.compulsion
+worrying_407,anxiety,chronic worrying about daily life (variant 407),severe,anxiety.cognitive
+self_doubt_408,depression,frequent self-doubting thoughts (variant 408),moderate,mood.self
+hopelessness_409,depression,feeling that nothing will improve (variant 409),mild,mood.hopeless
+fast_heartbeat_410,anxiety,rapid heartbeats during stress (variant 410),severe,anxiety.physical
+reduced_performance_411,burnout,decline in professional efficiency (variant 411),severe,burnout.performance
+dizziness_412,anxiety,feeling dizzy during tense moments (variant 412),mild,anxiety.physical
+dizziness_413,anxiety,feeling dizzy during tense moments (variant 413),mild,anxiety.physical
+elevated_energy_414,bipolar,sharp increase in energy levels (variant 414),moderate,bipolar.energy
+fidgeting_415,ADHD,inability to stay still (variant 415),severe,adhd.behavior
+easy_distractibility_416,ADHD,difficulty staying focused (variant 416),mild,adhd.attention
+sweating_417,panic_disorder,sudden sweating during panic attacks (variant 417),mild,panic.physical
+elevated_energy_418,bipolar,sharp increase in energy levels (variant 418),moderate,bipolar.energy
+trembling_419,panic_disorder,full-body trembling (variant 419),moderate,panic.somatic
+fear_of_judgment_420,social_anxiety,fear of negative evaluation (variant 420),mild,social.fear
+detachment_421,burnout,emotional distance from work life (variant 421),moderate,burnout.emotion
+tight_chest_422,anxiety,chest tightness during anxious moments (variant 422),mild,anxiety.somatic
+contamination_fear_423,OCD,fear of contamination or germs (variant 423),mild,ocd.fear
+worthlessness_424,depression,feelings of worthlessness (variant 424),moderate,mood.value
+burnout_signs_425,stress,classic burnout symptoms (variant 425),mild,stress.burnout
+social_withdrawal_426,depression,avoiding social interactions (variant 426),mild,mood.isolation
+fast_heartbeat_427,anxiety,rapid heartbeats during stress (variant 427),moderate,anxiety.physical
+social_avoidance_428,social_anxiety,avoiding social interactions (variant 428),mild,social.avoid
+fear_of_judgment_429,social_anxiety,fear of negative evaluation (variant 429),moderate,social.fear
+tight_chest_430,anxiety,chest tightness during anxious moments (variant 430),moderate,anxiety.somatic
+social_avoidance_431,social_anxiety,avoiding social interactions (variant 431),mild,social.avoid
+detachment_432,burnout,emotional distance from work life (variant 432),severe,burnout.emotion
+crying_spells_433,depression,unexpected crying spells (variant 433),mild,mood.tears
+detachment_434,burnout,emotional distance from work life (variant 434),moderate,burnout.emotion
+fear_of_uncertainty_435,anxiety,fear of unpredictable events (variant 435),moderate,anxiety.fear
+worthlessness_436,depression,feelings of worthlessness (variant 436),moderate,mood.value
+lack_of_connection_437,loneliness,difficulty connecting with others (variant 437),moderate,lonely.social
+flashbacks_438,PTSD,sudden intrusive trauma memories (variant 438),moderate,ptsd.intrusion
+sweating_439,panic_disorder,sudden sweating during panic attacks (variant 439),moderate,panic.physical
+fear_of_judgment_440,social_anxiety,fear of negative evaluation (variant 440),moderate,social.fear
+trembling_441,panic_disorder,full-body trembling (variant 441),severe,panic.somatic
+checking_behavior_442,OCD,checking locks or stoves repeatedly (variant 442),moderate,ocd.compulsion
+impulsiveness_443,ADHD,acting without thinking (variant 443),moderate,adhd.impulse
+avoidance_triggers_444,PTSD,avoiding trauma-related cues (variant 444),mild,ptsd.avoid
+fear_of_judgment_445,social_anxiety,fear of negative evaluation (variant 445),mild,social.fear
+restlessness_446,anxiety,persistent restless feelings (variant 446),moderate,anxiety.general
+easy_distractibility_447,ADHD,difficulty staying focused (variant 447),severe,adhd.attention
+social_withdrawal_448,depression,avoiding social interactions (variant 448),mild,mood.isolation
+sweating_449,panic_disorder,sudden sweating during panic attacks (variant 449),severe,panic.physical
+overthinking_450,stress,excessive thinking patterns (variant 450),moderate,stress.cognitive
+fast_heartbeat_451,anxiety,rapid heartbeats during stress (variant 451),severe,anxiety.physical
+detachment_452,burnout,emotional distance from work life (variant 452),severe,burnout.emotion
+lack_of_connection_453,loneliness,difficulty connecting with others (variant 453),mild,lonely.social
+fear_of_uncertainty_454,anxiety,fear of unpredictable events (variant 454),mild,anxiety.fear
+worthlessness_455,depression,feelings of worthlessness (variant 455),moderate,mood.value
+low_energy_456,depression,persistent low energy affecting daily life (variant 456),mild,mood.low
+fear_of_uncertainty_457,anxiety,fear of unpredictable events (variant 457),mild,anxiety.fear
+overthinking_458,stress,excessive thinking patterns (variant 458),severe,stress.cognitive
+avoidance_triggers_459,PTSD,avoiding trauma-related cues (variant 459),mild,ptsd.avoid
+overthinking_460,stress,excessive thinking patterns (variant 460),moderate,stress.cognitive
+crying_spells_461,depression,unexpected crying spells (variant 461),moderate,mood.tears
+checking_behavior_462,OCD,checking locks or stoves repeatedly (variant 462),severe,ocd.compulsion
+reduced_performance_463,burnout,decline in professional efficiency (variant 463),severe,burnout.performance
+muscle_tension_464,stress,tight muscles caused by stress (variant 464),moderate,stress.physical
+contamination_fear_465,OCD,fear of contamination or germs (variant 465),mild,ocd.fear
+isolation_feelings_466,loneliness,persistent feeling of isolation (variant 466),mild,lonely.emotion
+symmetry_needs_467,OCD,urge for symmetry and exactness (variant 467),severe,ocd.order
+low_energy_468,depression,persistent low energy affecting daily life (variant 468),moderate,mood.low
+social_avoidance_469,social_anxiety,avoiding social interactions (variant 469),mild,social.avoid
+overthinking_470,stress,excessive thinking patterns (variant 470),moderate,stress.cognitive
+risky_behavior_471,bipolar,risk-taking behaviors (variant 471),mild,bipolar.impulse
+flashbacks_472,PTSD,sudden intrusive trauma memories (variant 472),mild,ptsd.intrusion
+tight_chest_473,anxiety,chest tightness during anxious moments (variant 473),mild,anxiety.somatic
+easy_distractibility_474,ADHD,difficulty staying focused (variant 474),severe,adhd.attention
+nightmares_475,PTSD,trauma-related nightmares (variant 475),severe,ptsd.sleep
+hopelessness_476,depression,feeling that nothing will improve (variant 476),mild,mood.hopeless
+crying_spells_477,depression,unexpected crying spells (variant 477),moderate,mood.tears
+checking_behavior_478,OCD,checking locks or stoves repeatedly (variant 478),mild,ocd.compulsion
+hopelessness_479,depression,feeling that nothing will improve (variant 479),severe,mood.hopeless
+social_withdrawal_480,depression,avoiding social interactions (variant 480),mild,mood.isolation
+flashbacks_481,PTSD,sudden intrusive trauma memories (variant 481),mild,ptsd.intrusion
+hyperventilation_482,panic_disorder,breathing rapidly during episodes (variant 482),moderate,panic.breath
+easy_distractibility_483,ADHD,difficulty staying focused (variant 483),mild,adhd.attention
+flashbacks_484,PTSD,sudden intrusive trauma memories (variant 484),mild,ptsd.intrusion
+hyperventilation_485,panic_disorder,breathing rapidly during episodes (variant 485),severe,panic.breath
+hopelessness_486,depression,feeling that nothing will improve (variant 486),moderate,mood.hopeless
+burnout_signs_487,stress,classic burnout symptoms (variant 487),severe,stress.burnout
+dizziness_488,anxiety,feeling dizzy during tense moments (variant 488),severe,anxiety.physical
+symmetry_needs_489,OCD,urge for symmetry and exactness (variant 489),mild,ocd.order
+symmetry_needs_490,OCD,urge for symmetry and exactness (variant 490),moderate,ocd.order
+emotional_numbness_491,PTSD,feeling emotionally disconnected (variant 491),severe,ptsd.emotion
+social_withdrawal_492,depression,avoiding social interactions (variant 492),moderate,mood.isolation
+symmetry_needs_493,OCD,urge for symmetry and exactness (variant 493),mild,ocd.order
+social_withdrawal_494,depression,avoiding social interactions (variant 494),severe,mood.isolation
+self_doubt_495,depression,frequent self-doubting thoughts (variant 495),mild,mood.self
+trembling_496,panic_disorder,full-body trembling (variant 496),moderate,panic.somatic
+fidgeting_497,ADHD,inability to stay still (variant 497),moderate,adhd.behavior
+hyperventilation_498,panic_disorder,breathing rapidly during episodes (variant 498),mild,panic.breath
+flashbacks_499,PTSD,sudden intrusive trauma memories (variant 499),mild,ptsd.intrusion
