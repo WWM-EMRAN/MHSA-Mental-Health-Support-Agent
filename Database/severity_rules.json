@@ -1,0 +1,88 @@
+{
+  "metadata": {
+    "rules_version": "1.0.0",
+    "description": "Severity scoring rules for MHSA — rule-based severity engine.",
+    "authors": ["MHSA Agentic System"],
+    "notes": [
+      "Severity = base_category_weight * confidence_score * global_multiplier",
+      "Confidence must be between 0.0 and 1.0",
+      "Severity boundaries classify mild / moderate / severe"
+    ]
+  },
+
+  "global": {
+    "global_multiplier": 10.0,
+    "min_severity": 0.0,
+    "max_severity": 10.0
+  },
+
+  "categories": {
+    "anxiety": {
+      "base_weight": 0.85,
+      "description": "Symptoms related to anxiety, worry, tension, panic."
+    },
+    "depression": {
+      "base_weight": 0.95,
+      "description": "Symptoms related to low mood, loss of interest, hopelessness."
+    },
+    "stress": {
+      "base_weight": 0.70,
+      "description": "General emotional strain, overwhelm, burnout indicators."
+    },
+    "trauma": {
+      "base_weight": 1.10,
+      "description": "Trauma-related symptoms such as flashbacks, hypervigilance."
+    },
+    "loneliness": {
+      "base_weight": 0.60,
+      "description": "Indicators of social disconnection or emotional isolation."
+    },
+    "mood_instability": {
+      "base_weight": 0.80,
+      "description": "Mood swings, emotional dysregulation."
+    },
+    "anger": {
+      "base_weight": 0.65,
+      "description": "Irritability, anger, impulsive reactions."
+    },
+    "sleep_issues": {
+      "base_weight": 0.75,
+      "description": "Insomnia, irregular sleep, sleep disturbance patterns."
+    }
+  },
+
+  "severity_bands": {
+    "mild": {
+      "min": 0.0,
+      "max": 3.5,
+      "label": "mild",
+      "description": "Symptoms present but manageable. Basic coping strategies may help."
+    },
+    "moderate": {
+      "min": 3.5,
+      "max": 7.0,
+      "label": "moderate",
+      "description": "Symptoms affect daily life. Supportive interventions recommended."
+    },
+    "severe": {
+      "min": 7.0,
+      "max": 10.1,
+      "label": "severe",
+      "description": "High distress. Professional help may be necessary."
+    }
+  },
+
+  "safety_overrides": {
+    "keywords_indicating_risk": [
+      "suicide",
+      "self-harm",
+      "harm myself",
+      "ending life",
+      "kill myself",
+      "can't go on",
+      "severe hopelessness"
+    ],
+    "override_severity_to": "severe",
+    "override_message": "Safety keywords detected — applying severe level for safety."
+  }
+}
