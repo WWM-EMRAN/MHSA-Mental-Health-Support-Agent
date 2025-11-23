@@ -1,0 +1,71 @@
+{
+  "crisis_resources": {
+    "united_states": {
+      "988_suicide_crisis_lifeline": {
+        "phone": "988",
+        "description": "24/7 suicide and crisis lifeline",
+        "website": "https://988lifeline.org",
+        "chat": "https://988lifeline.org/chat"
+      },
+      "crisis_text_line": {
+        "text": "Text HOME to 741741",
+        "description": "Free 24/7 crisis support via text",
+        "website": "https://www.crisistextline.org"
+      },
+      "samhsa_helpline": {
+        "phone": "1-800-662-4357",
+        "description": "Substance Abuse and Mental Health Services",
+        "website": "https://www.samhsa.gov"
+      },
+      "trevor_project": {
+        "phone": "1-866-488-7386",
+        "text": "Text START to 678678",
+        "description": "Crisis support for LGBTQ+ youth",
+        "website": "https://www.thetrevorproject.org"
+      },
+      "veterans_crisis_line": {
+        "phone": "988 then press 1",
+        "text": "Text 838255",
+        "description": "Veterans Crisis Line",
+        "website": "https://www.veteranscrisisline.net"
+      },
+      "disaster_distress_helpline": {
+        "phone": "1-800-985-5990",
+        "text": "Text TalkWithUs to 66746",
+        "description": "Crisis counseling related to natural disasters"
+      }
+    },
+    "international": {
+      "international_association_suicide_prevention": {
+        "website": "https://www.iasp.info/resources/Crisis_Centres/",
+        "description": "Directory of crisis centers worldwide"
+      },
+      "befrienders_worldwide": {
+        "website": "https://www.befrienders.org",
+        "description": "Emotional support centers worldwide"
+      },
+      "canada": {
+        "phone": "1-833-456-4566",
+        "text": "Text 45645",
+        "description": "Canada Suicide Prevention Service"
+      },
+      "uk": {
+        "phone": "116 123",
+        "description": "Samaritans (UK and Ireland)",
+        "website": "https://www.samaritans.org"
+      },
+      "australia": {
+        "phone": "13 11 14",
+        "description": "Lifeline Australia",
+        "website": "https://www.lifeline.org.au"
+      }
+    },
+    "emergency": {
+      "us": "911",
+      "uk": "999 or 112",
+      "australia": "000",
+      "canada": "911",
+      "eu": "112"
+    }
+  }
+}

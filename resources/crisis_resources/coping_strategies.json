@@ -1,0 +1,90 @@
+{
+  "coping_strategies": {
+    "immediate_relief": {
+      "deep_breathing": {
+        "name": "4-7-8 Breathing Technique",
+        "description": "Breathe in for 4 seconds, hold for 7 seconds, exhale for 8 seconds",
+        "duration": "2-5 minutes",
+        "benefits": ["Reduces anxiety", "Promotes relaxation", "Lowers heart rate"]
+      },
+      "grounding_5_4_3_2_1": {
+        "name": "5-4-3-2-1 Grounding Technique",
+        "description": "Name 5 things you see, 4 you can touch, 3 you hear, 2 you smell, 1 you taste",
+        "duration": "3-5 minutes",
+        "benefits": ["Grounds you in present moment", "Reduces panic", "Stops rumination"]
+      },
+      "progressive_muscle_relaxation": {
+        "name": "Progressive Muscle Relaxation",
+        "description": "Tense and relax each muscle group from toes to head",
+        "duration": "10-15 minutes",
+        "benefits": ["Reduces physical tension", "Promotes body awareness", "Improves sleep"]
+      }
+    },
+    "anxiety_management": {
+      "box_breathing": {
+        "name": "Box Breathing",
+        "description": "Breathe in 4, hold 4, out 4, hold 4. Repeat.",
+        "benefits": ["Calms nervous system", "Improves focus"]
+      },
+      "thought_challenging": {
+        "name": "Cognitive Reframing",
+        "description": "Question anxious thoughts: Is this thought realistic? What evidence do I have?",
+        "benefits": ["Reduces catastrophic thinking", "Builds rational perspective"]
+      },
+      "worry_time": {
+        "name": "Scheduled Worry Time",
+        "description": "Set aside 15 minutes daily to worry, postpone worries to this time",
+        "benefits": ["Contains worry", "Reduces rumination"]
+      }
+    },
+    "depression_management": {
+      "behavioral_activation": {
+        "name": "Activity Scheduling",
+        "description": "Plan and engage in pleasurable or meaningful activities daily",
+        "benefits": ["Breaks inactivity cycle", "Improves mood", "Builds momentum"]
+      },
+      "social_connection": {
+        "name": "Social Engagement",
+        "description": "Reach out to friends, family, or support groups",
+        "benefits": ["Reduces isolation", "Provides support", "Improves mood"]
+      },
+      "self_compassion": {
+        "name": "Self-Compassion Practice",
+        "description": "Treat yourself with kindness, as you would a good friend",
+        "benefits": ["Reduces self-criticism", "Improves self-esteem", "Promotes healing"]
+      }
+    },
+    "stress_management": {
+      "time_management": {
+        "name": "Prioritization and Planning",
+        "description": "Break tasks into smaller steps, prioritize, take breaks",
+        "benefits": ["Reduces overwhelm", "Increases productivity", "Improves control"]
+      },
+      "physical_activity": {
+        "name": "Regular Exercise",
+        "description": "30 minutes of moderate activity most days",
+        "benefits": ["Releases endorphins", "Reduces stress hormones", "Improves sleep"]
+      },
+      "mindfulness_meditation": {
+        "name": "Mindfulness Practice",
+        "description": "10-20 minutes daily of focused attention on breath or body",
+        "benefits": ["Reduces stress", "Improves emotional regulation", "Enhances well-being"]
+      }
+    },
+    "sleep_hygiene": {
+      "consistent_schedule": "Go to bed and wake up at the same time daily",
+      "bedroom_environment": "Keep room dark, quiet, and cool (60-67°F)",
+      "limit_screens": "Avoid screens 1 hour before bed",
+      "avoid_caffeine": "No caffeine after 2pm",
+      "relaxation_routine": "Develop calming pre-bed routine (reading, bath, stretching)"
+    },
+    "lifestyle_practices": {
+      "nutrition": "Eat regular, balanced meals with adequate protein and vegetables",
+      "hydration": "Drink 6-8 glasses of water daily",
+      "limit_alcohol": "Alcohol can worsen mood and anxiety",
+      "social_support": "Maintain connections with supportive people",
+      "hobbies": "Engage in activities you enjoy",
+      "nature": "Spend time outdoors when possible"
+    }
+  }
+}
