@@ -1,5 +1,10 @@
 """Simple sentiment analysis for mental health conversations."""
-from typing import Dict
+from typing import Dict, Union
+
+
+class SentimentResult(Dict[str, Union[float, str, int]]):
+    """Type definition for sentiment analysis results."""
+    pass
 
 
 class SentimentAnalyzer:
@@ -25,7 +30,7 @@ class SentimentAnalyzer:
             'desperate', 'miserable', 'terrible', 'awful', 'horrible'
         }
         
-    def analyze(self, text: str) -> Dict[str, any]:
+    def analyze(self, text: str) -> SentimentResult:
         """Analyze sentiment of text.
         
         Args:

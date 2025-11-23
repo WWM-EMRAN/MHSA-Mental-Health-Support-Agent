@@ -202,6 +202,12 @@ class MHSACliApp:
         if not username:
             username = "Anonymous"
         
+        # Sanitize username - allow only alphanumeric, spaces, underscore, dash
+        import re
+        username = re.sub(r'[^\w\s\-]', '', username)[:50]  # Limit to 50 chars
+        if not username:
+            username = "Anonymous"
+        
         print(f"\n{Fore.CYAN}Hello {username}! How are you feeling today?\n")
         
         # Start session

@@ -1,6 +1,11 @@
 """Crisis detection system for identifying urgent mental health situations."""
-from typing import Dict, List, Set
+from typing import Dict, List, Set, Union
 import re
+
+
+class CrisisResult(Dict[str, Union[bool, str, List[str], float]]):
+    """Type definition for crisis detection results."""
+    pass
 
 
 class CrisisDetector:
@@ -34,7 +39,7 @@ class CrisisDetector:
             'numb', 'desperate'
         }
         
-    def detect_crisis(self, message: str) -> Dict[str, any]:
+    def detect_crisis(self, message: str) -> CrisisResult:
         """Detect crisis indicators in a message.
         
         Args:
@@ -98,10 +103,17 @@ class CrisisDetector:
         """
         found = []
         for keyword in keywords:
-            # Use word boundary for better matching
-            pattern = r'\b' + re.escape(keyword) + r'\b'
-            if re.search(pattern, message):
-                found.append(keyword)
+            # For multi-word phrases, just check if the phrase is in the message
+            # For single words, use word boundaries for more precise matching
+            if ' ' in keyword:
+                # Multi-word phrase - simple substring match
+                if keyword in message:
+                    found.append(keyword)
+            else:
+                # Single word - use word boundaries
+                pattern = r'\b' + re.escape(keyword) + r'\b'
+                if re.search(pattern, message):
+                    found.append(keyword)
         return found
     
     def get_crisis_resources(self) -> Dict[str, str]:
