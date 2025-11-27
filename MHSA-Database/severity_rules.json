@@ -1,0 +1,65 @@
+{
+  "levels": {
+    "none": {
+      "threshold": 0.05,
+      "description": "Very mild or normal-range emotions"
+    },
+    "mild": {
+      "threshold": 0.2,
+      "description": "Low intensity symptoms"
+    },
+    "moderate": {
+      "threshold": 0.5,
+      "description": "Significant symptoms"
+    },
+    "moderately_severe": {
+      "threshold": 0.65,
+      "description": "Strong impairing symptoms"
+    },
+    "severe": {
+      "threshold": 0.75,
+      "description": "High distress"
+    },
+    "critical": {
+      "threshold": 0.9,
+      "description": "Critical, unsafe symptoms"
+    }
+  },
+  "crisis_override_rules": {
+    "keywords": [
+      "self-harm",
+      "kill myself",
+      "suicide",
+      "end life",
+      "can't breathe",
+      "panic attack",
+      "hurt myself"
+    ],
+    "conditions": [
+      {
+        "if": "suicidal ideation",
+        "force_level": "critical"
+      },
+      {
+        "if": "self-harm",
+        "force_level": "critical"
+      },
+      {
+        "if": "panic attack",
+        "force_level": "severe"
+      }
+    ]
+  },
+  "symptom_weight_modifiers": {
+    "physical": 1.2,
+    "emotional": 1.0,
+    "cognitive": 1.1,
+    "crisis": 1.5
+  },
+  "fusion_rules": {
+    "keyword_weight": 0.35,
+    "semantic_weight": 0.4,
+    "web_weight": 0.25,
+    "min_confidence_required": 0.1
+  }
+}

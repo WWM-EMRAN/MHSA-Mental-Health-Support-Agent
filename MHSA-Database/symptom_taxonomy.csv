@@ -1,0 +1,501 @@
+category,subcategory,keywords,examples,embedding_text,severity_base
+Trauma-Related,hyperarousal,"on edge, startled",I'm always on edge,hyperarousal symptom description variant 0,0.65
+Cognitive Impairments,focus issues,"can't focus, distracted",I can't focus on my tasks,focus issues symptom description variant 1,0.35
+Cognitive Impairments,focus issues,"can't focus, distracted",I can't focus on my tasks,focus issues symptom description variant 2,0.35
+Anger & Irritability,anger,"angry, frustrated",I get angry over small things,anger symptom description variant 3,0.45
+Sleep Disturbances,insomnia,"can't sleep, insomnia",I can't fall asleep at night,insomnia symptom description variant 4,0.4
+Anxiety & Worry,worry,"worry, anxious, nervous",I feel anxious all day,worry symptom description variant 5,0.35
+Cognitive Impairments,focus issues,"can't focus, distracted",I can't focus on my tasks,focus issues symptom description variant 6,0.35
+Panic Symptoms,racing heart,"heart racing, palpitations",My heart beats very fast suddenly,racing heart symptom description variant 7,0.7
+Physical Symptoms,chest tightness,"chest tight, pressure",My chest feels tight,chest tightness symptom description variant 8,0.6
+Crisis Indicators,self-harm,"self harm, cut",I think about hurting myself,self-harm symptom description variant 9,0.9
+Physical Symptoms,chest tightness,"chest tight, pressure",My chest feels tight,chest tightness symptom description variant 10,0.6
+Cognitive Impairments,memory issues,"forget, memory",I forget things easily,memory issues symptom description variant 11,0.4
+Sleep Disturbances,restlessness,"restless, waking up",I wake up multiple times,restlessness symptom description variant 12,0.45
+Crisis Indicators,self-harm,"self harm, cut",I think about hurting myself,self-harm symptom description variant 13,0.9
+Trauma-Related,hyperarousal,"on edge, startled",I'm always on edge,hyperarousal symptom description variant 14,0.65
+Depression & Mood,anhedonia,"no interest, cannot enjoy",I don't enjoy anything anymore,anhedonia symptom description variant 15,0.55
+Stress & Burnout,burnout,"burnout, exhausted, drained",I feel burnt out from work,burnout symptom description variant 16,0.45
+Crisis Indicators,suicidal ideation,"suicide, end life",I don't want to live anymore,suicidal ideation symptom description variant 17,0.95
+Physical Symptoms,fatigue,"tired, fatigue",I feel tired all day,fatigue symptom description variant 18,0.3
+Sleep Disturbances,restlessness,"restless, waking up",I wake up multiple times,restlessness symptom description variant 19,0.45
+Depression & Mood,low mood,"sad, low, depressed",I'm feeling really down lately,low mood symptom description variant 20,0.5
+Anxiety & Worry,overthinking,"overthink, racing thoughts",My thoughts won't stop,overthinking symptom description variant 21,0.4
+Stress & Burnout,burnout,"burnout, exhausted, drained",I feel burnt out from work,burnout symptom description variant 22,0.45
+Stress & Burnout,burnout,"burnout, exhausted, drained",I feel burnt out from work,burnout symptom description variant 23,0.45
+Anger & Irritability,irritability,"irritated, annoyed",I get irritated easily,irritability symptom description variant 24,0.35
+Trauma-Related,hyperarousal,"on edge, startled",I'm always on edge,hyperarousal symptom description variant 25,0.65
+Sleep Disturbances,insomnia,"can't sleep, insomnia",I can't fall asleep at night,insomnia symptom description variant 26,0.4
+Trauma-Related,flashbacks,"flashback, memories",I keep seeing past events,flashbacks symptom description variant 27,0.7
+Stress & Burnout,burnout,"burnout, exhausted, drained",I feel burnt out from work,burnout symptom description variant 28,0.45
+Trauma-Related,flashbacks,"flashback, memories",I keep seeing past events,flashbacks symptom description variant 29,0.7
+Crisis Indicators,self-harm,"self harm, cut",I think about hurting myself,self-harm symptom description variant 30,0.9
+Sleep Disturbances,restlessness,"restless, waking up",I wake up multiple times,restlessness symptom description variant 31,0.45
+Anger & Irritability,anger,"angry, frustrated",I get angry over small things,anger symptom description variant 32,0.45
+Trauma-Related,flashbacks,"flashback, memories",I keep seeing past events,flashbacks symptom description variant 33,0.7
+Cognitive Impairments,focus issues,"can't focus, distracted",I can't focus on my tasks,focus issues symptom description variant 34,0.35
+Anxiety & Worry,overthinking,"overthink, racing thoughts",My thoughts won't stop,overthinking symptom description variant 35,0.4
+Crisis Indicators,suicidal ideation,"suicide, end life",I don't want to live anymore,suicidal ideation symptom description variant 36,0.95
+Anxiety & Worry,overthinking,"overthink, racing thoughts",My thoughts won't stop,overthinking symptom description variant 37,0.4
+Physical Symptoms,chest tightness,"chest tight, pressure",My chest feels tight,chest tightness symptom description variant 38,0.6
+Cognitive Impairments,focus issues,"can't focus, distracted",I can't focus on my tasks,focus issues symptom description variant 39,0.35
+Cognitive Impairments,memory issues,"forget, memory",I forget things easily,memory issues symptom description variant 40,0.4
+Anger & Irritability,irritability,"irritated, annoyed",I get irritated easily,irritability symptom description variant 41,0.35
+Trauma-Related,hyperarousal,"on edge, startled",I'm always on edge,hyperarousal symptom description variant 42,0.65
+Cognitive Impairments,focus issues,"can't focus, distracted",I can't focus on my tasks,focus issues symptom description variant 43,0.35
+Trauma-Related,hyperarousal,"on edge, startled",I'm always on edge,hyperarousal symptom description variant 44,0.65
+Trauma-Related,hyperarousal,"on edge, startled",I'm always on edge,hyperarousal symptom description variant 45,0.65
+Anxiety & Worry,overthinking,"overthink, racing thoughts",My thoughts won't stop,overthinking symptom description variant 46,0.4
+Anger & Irritability,irritability,"irritated, annoyed",I get irritated easily,irritability symptom description variant 47,0.35
+Panic Symptoms,racing heart,"heart racing, palpitations",My heart beats very fast suddenly,racing heart symptom description variant 48,0.7
+Physical Symptoms,fatigue,"tired, fatigue",I feel tired all day,fatigue symptom description variant 49,0.3
+Anger & Irritability,anger,"angry, frustrated",I get angry over small things,anger symptom description variant 50,0.45
+Anxiety & Worry,overthinking,"overthink, racing thoughts",My thoughts won't stop,overthinking symptom description variant 51,0.4
+Stress & Burnout,burnout,"burnout, exhausted, drained",I feel burnt out from work,burnout symptom description variant 52,0.45
+Cognitive Impairments,focus issues,"can't focus, distracted",I can't focus on my tasks,focus issues symptom description variant 53,0.35
+Cognitive Impairments,memory issues,"forget, memory",I forget things easily,memory issues symptom description variant 54,0.4
+Sleep Disturbances,insomnia,"can't sleep, insomnia",I can't fall asleep at night,insomnia symptom description variant 55,0.4
+Anger & Irritability,irritability,"irritated, annoyed",I get irritated easily,irritability symptom description variant 56,0.35
+Depression & Mood,anhedonia,"no interest, cannot enjoy",I don't enjoy anything anymore,anhedonia symptom description variant 57,0.55
+Anger & Irritability,irritability,"irritated, annoyed",I get irritated easily,irritability symptom description variant 58,0.35
+Trauma-Related,hyperarousal,"on edge, startled",I'm always on edge,hyperarousal symptom description variant 59,0.65
+Anger & Irritability,irritability,"irritated, annoyed",I get irritated easily,irritability symptom description variant 60,0.35
+Physical Symptoms,fatigue,"tired, fatigue",I feel tired all day,fatigue symptom description variant 61,0.3
+Trauma-Related,flashbacks,"flashback, memories",I keep seeing past events,flashbacks symptom description variant 62,0.7
+Trauma-Related,flashbacks,"flashback, memories",I keep seeing past events,flashbacks symptom description variant 63,0.7
+Depression & Mood,anhedonia,"no interest, cannot enjoy",I don't enjoy anything anymore,anhedonia symptom description variant 64,0.55
+Stress & Burnout,overload,"overload, overwhelmed",Everything feels overwhelming,overload symptom description variant 65,0.5
+Anger & Irritability,irritability,"irritated, annoyed",I get irritated easily,irritability symptom description variant 66,0.35
+Panic Symptoms,racing heart,"heart racing, palpitations",My heart beats very fast suddenly,racing heart symptom description variant 67,0.7
+Depression & Mood,low mood,"sad, low, depressed",I'm feeling really down lately,low mood symptom description variant 68,0.5
+Depression & Mood,anhedonia,"no interest, cannot enjoy",I don't enjoy anything anymore,anhedonia symptom description variant 69,0.55
+Crisis Indicators,self-harm,"self harm, cut",I think about hurting myself,self-harm symptom description variant 70,0.9
+Cognitive Impairments,focus issues,"can't focus, distracted",I can't focus on my tasks,focus issues symptom description variant 71,0.35
+Anxiety & Worry,overthinking,"overthink, racing thoughts",My thoughts won't stop,overthinking symptom description variant 72,0.4
+Stress & Burnout,burnout,"burnout, exhausted, drained",I feel burnt out from work,burnout symptom description variant 73,0.45
+Anxiety & Worry,overthinking,"overthink, racing thoughts",My thoughts won't stop,overthinking symptom description variant 74,0.4
+Anxiety & Worry,overthinking,"overthink, racing thoughts",My thoughts won't stop,overthinking symptom description variant 75,0.4
+Sleep Disturbances,insomnia,"can't sleep, insomnia",I can't fall asleep at night,insomnia symptom description variant 76,0.4
+Panic Symptoms,panic attack,"panic, can't breathe",I had a panic attack,panic attack symptom description variant 77,0.75
+Stress & Burnout,overload,"overload, overwhelmed",Everything feels overwhelming,overload symptom description variant 78,0.5
+Physical Symptoms,fatigue,"tired, fatigue",I feel tired all day,fatigue symptom description variant 79,0.3
+Depression & Mood,anhedonia,"no interest, cannot enjoy",I don't enjoy anything anymore,anhedonia symptom description variant 80,0.55
+Physical Symptoms,chest tightness,"chest tight, pressure",My chest feels tight,chest tightness symptom description variant 81,0.6
+Panic Symptoms,panic attack,"panic, can't breathe",I had a panic attack,panic attack symptom description variant 82,0.75
+Anger & Irritability,irritability,"irritated, annoyed",I get irritated easily,irritability symptom description variant 83,0.35
+Depression & Mood,low mood,"sad, low, depressed",I'm feeling really down lately,low mood symptom description variant 84,0.5
+Panic Symptoms,racing heart,"heart racing, palpitations",My heart beats very fast suddenly,racing heart symptom description variant 85,0.7
+Cognitive Impairments,memory issues,"forget, memory",I forget things easily,memory issues symptom description variant 86,0.4
+Stress & Burnout,burnout,"burnout, exhausted, drained",I feel burnt out from work,burnout symptom description variant 87,0.45
+Depression & Mood,low mood,"sad, low, depressed",I'm feeling really down lately,low mood symptom description variant 88,0.5
+Sleep Disturbances,restlessness,"restless, waking up",I wake up multiple times,restlessness symptom description variant 89,0.45
+Trauma-Related,flashbacks,"flashback, memories",I keep seeing past events,flashbacks symptom description variant 90,0.7
+Sleep Disturbances,restlessness,"restless, waking up",I wake up multiple times,restlessness symptom description variant 91,0.45
+Physical Symptoms,chest tightness,"chest tight, pressure",My chest feels tight,chest tightness symptom description variant 92,0.6
+Crisis Indicators,self-harm,"self harm, cut",I think about hurting myself,self-harm symptom description variant 93,0.9
+Stress & Burnout,burnout,"burnout, exhausted, drained",I feel burnt out from work,burnout symptom description variant 94,0.45
+Trauma-Related,flashbacks,"flashback, memories",I keep seeing past events,flashbacks symptom description variant 95,0.7
+Stress & Burnout,burnout,"burnout, exhausted, drained",I feel burnt out from work,burnout symptom description variant 96,0.45
+Cognitive Impairments,focus issues,"can't focus, distracted",I can't focus on my tasks,focus issues symptom description variant 97,0.35
+Anger & Irritability,irritability,"irritated, annoyed",I get irritated easily,irritability symptom description variant 98,0.35
+Sleep Disturbances,restlessness,"restless, waking up",I wake up multiple times,restlessness symptom description variant 99,0.45
+Sleep Disturbances,insomnia,"can't sleep, insomnia",I can't fall asleep at night,insomnia symptom description variant 100,0.4
+Trauma-Related,flashbacks,"flashback, memories",I keep seeing past events,flashbacks symptom description variant 101,0.7
+Stress & Burnout,overload,"overload, overwhelmed",Everything feels overwhelming,overload symptom description variant 102,0.5
+Physical Symptoms,fatigue,"tired, fatigue",I feel tired all day,fatigue symptom description variant 103,0.3
+Depression & Mood,anhedonia,"no interest, cannot enjoy",I don't enjoy anything anymore,anhedonia symptom description variant 104,0.55
+Crisis Indicators,self-harm,"self harm, cut",I think about hurting myself,self-harm symptom description variant 105,0.9
+Sleep Disturbances,restlessness,"restless, waking up",I wake up multiple times,restlessness symptom description variant 106,0.45
+Physical Symptoms,chest tightness,"chest tight, pressure",My chest feels tight,chest tightness symptom description variant 107,0.6
+Depression & Mood,low mood,"sad, low, depressed",I'm feeling really down lately,low mood symptom description variant 108,0.5
+Trauma-Related,hyperarousal,"on edge, startled",I'm always on edge,hyperarousal symptom description variant 109,0.65
+Physical Symptoms,fatigue,"tired, fatigue",I feel tired all day,fatigue symptom description variant 110,0.3
+Crisis Indicators,self-harm,"self harm, cut",I think about hurting myself,self-harm symptom description variant 111,0.9
+Anger & Irritability,irritability,"irritated, annoyed",I get irritated easily,irritability symptom description variant 112,0.35
+Physical Symptoms,fatigue,"tired, fatigue",I feel tired all day,fatigue symptom description variant 113,0.3
+Depression & Mood,anhedonia,"no interest, cannot enjoy",I don't enjoy anything anymore,anhedonia symptom description variant 114,0.55
+Physical Symptoms,chest tightness,"chest tight, pressure",My chest feels tight,chest tightness symptom description variant 115,0.6
+Crisis Indicators,suicidal ideation,"suicide, end life",I don't want to live anymore,suicidal ideation symptom description variant 116,0.95
+Cognitive Impairments,focus issues,"can't focus, distracted",I can't focus on my tasks,focus issues symptom description variant 117,0.35
+Physical Symptoms,chest tightness,"chest tight, pressure",My chest feels tight,chest tightness symptom description variant 118,0.6
+Depression & Mood,low mood,"sad, low, depressed",I'm feeling really down lately,low mood symptom description variant 119,0.5
+Sleep Disturbances,restlessness,"restless, waking up",I wake up multiple times,restlessness symptom description variant 120,0.45
+Anxiety & Worry,overthinking,"overthink, racing thoughts",My thoughts won't stop,overthinking symptom description variant 121,0.4
+Sleep Disturbances,insomnia,"can't sleep, insomnia",I can't fall asleep at night,insomnia symptom description variant 122,0.4
+Anxiety & Worry,worry,"worry, anxious, nervous",I feel anxious all day,worry symptom description variant 123,0.35
+Trauma-Related,flashbacks,"flashback, memories",I keep seeing past events,flashbacks symptom description variant 124,0.7
+Crisis Indicators,suicidal ideation,"suicide, end life",I don't want to live anymore,suicidal ideation symptom description variant 125,0.95
+Trauma-Related,flashbacks,"flashback, memories",I keep seeing past events,flashbacks symptom description variant 126,0.7
+Depression & Mood,low mood,"sad, low, depressed",I'm feeling really down lately,low mood symptom description variant 127,0.5
+Panic Symptoms,panic attack,"panic, can't breathe",I had a panic attack,panic attack symptom description variant 128,0.75
+Crisis Indicators,suicidal ideation,"suicide, end life",I don't want to live anymore,suicidal ideation symptom description variant 129,0.95
+Depression & Mood,anhedonia,"no interest, cannot enjoy",I don't enjoy anything anymore,anhedonia symptom description variant 130,0.55
+Cognitive Impairments,memory issues,"forget, memory",I forget things easily,memory issues symptom description variant 131,0.4
+Cognitive Impairments,focus issues,"can't focus, distracted",I can't focus on my tasks,focus issues symptom description variant 132,0.35
+Crisis Indicators,self-harm,"self harm, cut",I think about hurting myself,self-harm symptom description variant 133,0.9
+Panic Symptoms,panic attack,"panic, can't breathe",I had a panic attack,panic attack symptom description variant 134,0.75
+Panic Symptoms,panic attack,"panic, can't breathe",I had a panic attack,panic attack symptom description variant 135,0.75
+Anger & Irritability,anger,"angry, frustrated",I get angry over small things,anger symptom description variant 136,0.45
+Physical Symptoms,fatigue,"tired, fatigue",I feel tired all day,fatigue symptom description variant 137,0.3
+Stress & Burnout,overload,"overload, overwhelmed",Everything feels overwhelming,overload symptom description variant 138,0.5
+Panic Symptoms,racing heart,"heart racing, palpitations",My heart beats very fast suddenly,racing heart symptom description variant 139,0.7
+Trauma-Related,flashbacks,"flashback, memories",I keep seeing past events,flashbacks symptom description variant 140,0.7
+Depression & Mood,low mood,"sad, low, depressed",I'm feeling really down lately,low mood symptom description variant 141,0.5
+Depression & Mood,anhedonia,"no interest, cannot enjoy",I don't enjoy anything anymore,anhedonia symptom description variant 142,0.55
+Anxiety & Worry,worry,"worry, anxious, nervous",I feel anxious all day,worry symptom description variant 143,0.35
+Sleep Disturbances,restlessness,"restless, waking up",I wake up multiple times,restlessness symptom description variant 144,0.45
+Sleep Disturbances,restlessness,"restless, waking up",I wake up multiple times,restlessness symptom description variant 145,0.45
+Sleep Disturbances,restlessness,"restless, waking up",I wake up multiple times,restlessness symptom description variant 146,0.45
+Trauma-Related,flashbacks,"flashback, memories",I keep seeing past events,flashbacks symptom description variant 147,0.7
+Panic Symptoms,racing heart,"heart racing, palpitations",My heart beats very fast suddenly,racing heart symptom description variant 148,0.7
+Sleep Disturbances,restlessness,"restless, waking up",I wake up multiple times,restlessness symptom description variant 149,0.45
+Cognitive Impairments,focus issues,"can't focus, distracted",I can't focus on my tasks,focus issues symptom description variant 150,0.35
+Anger & Irritability,irritability,"irritated, annoyed",I get irritated easily,irritability symptom description variant 151,0.35
+Physical Symptoms,fatigue,"tired, fatigue",I feel tired all day,fatigue symptom description variant 152,0.3
+Stress & Burnout,overload,"overload, overwhelmed",Everything feels overwhelming,overload symptom description variant 153,0.5
+Physical Symptoms,chest tightness,"chest tight, pressure",My chest feels tight,chest tightness symptom description variant 154,0.6
+Cognitive Impairments,memory issues,"forget, memory",I forget things easily,memory issues symptom description variant 155,0.4
+Anxiety & Worry,overthinking,"overthink, racing thoughts",My thoughts won't stop,overthinking symptom description variant 156,0.4
+Crisis Indicators,self-harm,"self harm, cut",I think about hurting myself,self-harm symptom description variant 157,0.9
+Cognitive Impairments,focus issues,"can't focus, distracted",I can't focus on my tasks,focus issues symptom description variant 158,0.35
+Stress & Burnout,burnout,"burnout, exhausted, drained",I feel burnt out from work,burnout symptom description variant 159,0.45
+Anxiety & Worry,overthinking,"overthink, racing thoughts",My thoughts won't stop,overthinking symptom description variant 160,0.4
+Physical Symptoms,chest tightness,"chest tight, pressure",My chest feels tight,chest tightness symptom description variant 161,0.6
+Physical Symptoms,chest tightness,"chest tight, pressure",My chest feels tight,chest tightness symptom description variant 162,0.6
+Stress & Burnout,burnout,"burnout, exhausted, drained",I feel burnt out from work,burnout symptom description variant 163,0.45
+Cognitive Impairments,focus issues,"can't focus, distracted",I can't focus on my tasks,focus issues symptom description variant 164,0.35
+Stress & Burnout,overload,"overload, overwhelmed",Everything feels overwhelming,overload symptom description variant 165,0.5
+Depression & Mood,low mood,"sad, low, depressed",I'm feeling really down lately,low mood symptom description variant 166,0.5
+Sleep Disturbances,insomnia,"can't sleep, insomnia",I can't fall asleep at night,insomnia symptom description variant 167,0.4
+Crisis Indicators,suicidal ideation,"suicide, end life",I don't want to live anymore,suicidal ideation symptom description variant 168,0.95
+Physical Symptoms,chest tightness,"chest tight, pressure",My chest feels tight,chest tightness symptom description variant 169,0.6
+Anxiety & Worry,worry,"worry, anxious, nervous",I feel anxious all day,worry symptom description variant 170,0.35
+Cognitive Impairments,memory issues,"forget, memory",I forget things easily,memory issues symptom description variant 171,0.4
+Anger & Irritability,irritability,"irritated, annoyed",I get irritated easily,irritability symptom description variant 172,0.35
+Anxiety & Worry,worry,"worry, anxious, nervous",I feel anxious all day,worry symptom description variant 173,0.35
+Depression & Mood,low mood,"sad, low, depressed",I'm feeling really down lately,low mood symptom description variant 174,0.5
+Anxiety & Worry,overthinking,"overthink, racing thoughts",My thoughts won't stop,overthinking symptom description variant 175,0.4
+Physical Symptoms,chest tightness,"chest tight, pressure",My chest feels tight,chest tightness symptom description variant 176,0.6
+Sleep Disturbances,insomnia,"can't sleep, insomnia",I can't fall asleep at night,insomnia symptom description variant 177,0.4
+Cognitive Impairments,focus issues,"can't focus, distracted",I can't focus on my tasks,focus issues symptom description variant 178,0.35
+Anger & Irritability,anger,"angry, frustrated",I get angry over small things,anger symptom description variant 179,0.45
+Physical Symptoms,chest tightness,"chest tight, pressure",My chest feels tight,chest tightness symptom description variant 180,0.6
+Sleep Disturbances,insomnia,"can't sleep, insomnia",I can't fall asleep at night,insomnia symptom description variant 181,0.4
+Stress & Burnout,burnout,"burnout, exhausted, drained",I feel burnt out from work,burnout symptom description variant 182,0.45
+Anxiety & Worry,overthinking,"overthink, racing thoughts",My thoughts won't stop,overthinking symptom description variant 183,0.4
+Anxiety & Worry,overthinking,"overthink, racing thoughts",My thoughts won't stop,overthinking symptom description variant 184,0.4
+Physical Symptoms,chest tightness,"chest tight, pressure",My chest feels tight,chest tightness symptom description variant 185,0.6
+Panic Symptoms,racing heart,"heart racing, palpitations",My heart beats very fast suddenly,racing heart symptom description variant 186,0.7
+Stress & Burnout,burnout,"burnout, exhausted, drained",I feel burnt out from work,burnout symptom description variant 187,0.45
+Physical Symptoms,fatigue,"tired, fatigue",I feel tired all day,fatigue symptom description variant 188,0.3
+Sleep Disturbances,insomnia,"can't sleep, insomnia",I can't fall asleep at night,insomnia symptom description variant 189,0.4
+Depression & Mood,low mood,"sad, low, depressed",I'm feeling really down lately,low mood symptom description variant 190,0.5
+Panic Symptoms,panic attack,"panic, can't breathe",I had a panic attack,panic attack symptom description variant 191,0.75
+Cognitive Impairments,focus issues,"can't focus, distracted",I can't focus on my tasks,focus issues symptom description variant 192,0.35
+Anxiety & Worry,overthinking,"overthink, racing thoughts",My thoughts won't stop,overthinking symptom description variant 193,0.4
+Sleep Disturbances,restlessness,"restless, waking up",I wake up multiple times,restlessness symptom description variant 194,0.45
+Depression & Mood,low mood,"sad, low, depressed",I'm feeling really down lately,low mood symptom description variant 195,0.5
+Stress & Burnout,overload,"overload, overwhelmed",Everything feels overwhelming,overload symptom description variant 196,0.5
+Physical Symptoms,chest tightness,"chest tight, pressure",My chest feels tight,chest tightness symptom description variant 197,0.6
+Anger & Irritability,irritability,"irritated, annoyed",I get irritated easily,irritability symptom description variant 198,0.35
+Depression & Mood,anhedonia,"no interest, cannot enjoy",I don't enjoy anything anymore,anhedonia symptom description variant 199,0.55
+Anxiety & Worry,overthinking,"overthink, racing thoughts",My thoughts won't stop,overthinking symptom description variant 200,0.4
+Depression & Mood,anhedonia,"no interest, cannot enjoy",I don't enjoy anything anymore,anhedonia symptom description variant 201,0.55
+Cognitive Impairments,focus issues,"can't focus, distracted",I can't focus on my tasks,focus issues symptom description variant 202,0.35
+Depression & Mood,anhedonia,"no interest, cannot enjoy",I don't enjoy anything anymore,anhedonia symptom description variant 203,0.55
+Physical Symptoms,fatigue,"tired, fatigue",I feel tired all day,fatigue symptom description variant 204,0.3
+Stress & Burnout,burnout,"burnout, exhausted, drained",I feel burnt out from work,burnout symptom description variant 205,0.45
+Trauma-Related,hyperarousal,"on edge, startled",I'm always on edge,hyperarousal symptom description variant 206,0.65
+Cognitive Impairments,memory issues,"forget, memory",I forget things easily,memory issues symptom description variant 207,0.4
+Physical Symptoms,fatigue,"tired, fatigue",I feel tired all day,fatigue symptom description variant 208,0.3
+Panic Symptoms,panic attack,"panic, can't breathe",I had a panic attack,panic attack symptom description variant 209,0.75
+Crisis Indicators,self-harm,"self harm, cut",I think about hurting myself,self-harm symptom description variant 210,0.9
+Anger & Irritability,anger,"angry, frustrated",I get angry over small things,anger symptom description variant 211,0.45
+Crisis Indicators,self-harm,"self harm, cut",I think about hurting myself,self-harm symptom description variant 212,0.9
+Cognitive Impairments,focus issues,"can't focus, distracted",I can't focus on my tasks,focus issues symptom description variant 213,0.35
+Crisis Indicators,suicidal ideation,"suicide, end life",I don't want to live anymore,suicidal ideation symptom description variant 214,0.95
+Stress & Burnout,burnout,"burnout, exhausted, drained",I feel burnt out from work,burnout symptom description variant 215,0.45
+Trauma-Related,hyperarousal,"on edge, startled",I'm always on edge,hyperarousal symptom description variant 216,0.65
+Anxiety & Worry,worry,"worry, anxious, nervous",I feel anxious all day,worry symptom description variant 217,0.35
+Physical Symptoms,chest tightness,"chest tight, pressure",My chest feels tight,chest tightness symptom description variant 218,0.6
+Trauma-Related,hyperarousal,"on edge, startled",I'm always on edge,hyperarousal symptom description variant 219,0.65
+Cognitive Impairments,focus issues,"can't focus, distracted",I can't focus on my tasks,focus issues symptom description variant 220,0.35
+Depression & Mood,anhedonia,"no interest, cannot enjoy",I don't enjoy anything anymore,anhedonia symptom description variant 221,0.55
+Stress & Burnout,burnout,"burnout, exhausted, drained",I feel burnt out from work,burnout symptom description variant 222,0.45
+Physical Symptoms,fatigue,"tired, fatigue",I feel tired all day,fatigue symptom description variant 223,0.3
+Panic Symptoms,racing heart,"heart racing, palpitations",My heart beats very fast suddenly,racing heart symptom description variant 224,0.7
+Anxiety & Worry,overthinking,"overthink, racing thoughts",My thoughts won't stop,overthinking symptom description variant 225,0.4
+Cognitive Impairments,focus issues,"can't focus, distracted",I can't focus on my tasks,focus issues symptom description variant 226,0.35
+Panic Symptoms,panic attack,"panic, can't breathe",I had a panic attack,panic attack symptom description variant 227,0.75
+Stress & Burnout,burnout,"burnout, exhausted, drained",I feel burnt out from work,burnout symptom description variant 228,0.45
+Stress & Burnout,burnout,"burnout, exhausted, drained",I feel burnt out from work,burnout symptom description variant 229,0.45
+Anger & Irritability,anger,"angry, frustrated",I get angry over small things,anger symptom description variant 230,0.45
+Physical Symptoms,chest tightness,"chest tight, pressure",My chest feels tight,chest tightness symptom description variant 231,0.6
+Stress & Burnout,overload,"overload, overwhelmed",Everything feels overwhelming,overload symptom description variant 232,0.5
+Cognitive Impairments,memory issues,"forget, memory",I forget things easily,memory issues symptom description variant 233,0.4
+Crisis Indicators,self-harm,"self harm, cut",I think about hurting myself,self-harm symptom description variant 234,0.9
+Cognitive Impairments,memory issues,"forget, memory",I forget things easily,memory issues symptom description variant 235,0.4
+Trauma-Related,hyperarousal,"on edge, startled",I'm always on edge,hyperarousal symptom description variant 236,0.65
+Crisis Indicators,suicidal ideation,"suicide, end life",I don't want to live anymore,suicidal ideation symptom description variant 237,0.95
+Crisis Indicators,self-harm,"self harm, cut",I think about hurting myself,self-harm symptom description variant 238,0.9
+Anger & Irritability,anger,"angry, frustrated",I get angry over small things,anger symptom description variant 239,0.45
+Depression & Mood,anhedonia,"no interest, cannot enjoy",I don't enjoy anything anymore,anhedonia symptom description variant 240,0.55
+Sleep Disturbances,insomnia,"can't sleep, insomnia",I can't fall asleep at night,insomnia symptom description variant 241,0.4
+Sleep Disturbances,restlessness,"restless, waking up",I wake up multiple times,restlessness symptom description variant 242,0.45
+Cognitive Impairments,focus issues,"can't focus, distracted",I can't focus on my tasks,focus issues symptom description variant 243,0.35
+Physical Symptoms,fatigue,"tired, fatigue",I feel tired all day,fatigue symptom description variant 244,0.3
+Trauma-Related,flashbacks,"flashback, memories",I keep seeing past events,flashbacks symptom description variant 245,0.7
+Depression & Mood,low mood,"sad, low, depressed",I'm feeling really down lately,low mood symptom description variant 246,0.5
+Depression & Mood,low mood,"sad, low, depressed",I'm feeling really down lately,low mood symptom description variant 247,0.5
+Sleep Disturbances,insomnia,"can't sleep, insomnia",I can't fall asleep at night,insomnia symptom description variant 248,0.4
+Depression & Mood,low mood,"sad, low, depressed",I'm feeling really down lately,low mood symptom description variant 249,0.5
+Panic Symptoms,panic attack,"panic, can't breathe",I had a panic attack,panic attack symptom description variant 250,0.75
+Physical Symptoms,chest tightness,"chest tight, pressure",My chest feels tight,chest tightness symptom description variant 251,0.6
+Panic Symptoms,racing heart,"heart racing, palpitations",My heart beats very fast suddenly,racing heart symptom description variant 252,0.7
+Anger & Irritability,irritability,"irritated, annoyed",I get irritated easily,irritability symptom description variant 253,0.35
+Cognitive Impairments,focus issues,"can't focus, distracted",I can't focus on my tasks,focus issues symptom description variant 254,0.35
+Crisis Indicators,self-harm,"self harm, cut",I think about hurting myself,self-harm symptom description variant 255,0.9
+Stress & Burnout,burnout,"burnout, exhausted, drained",I feel burnt out from work,burnout symptom description variant 256,0.45
+Sleep Disturbances,insomnia,"can't sleep, insomnia",I can't fall asleep at night,insomnia symptom description variant 257,0.4
+Physical Symptoms,chest tightness,"chest tight, pressure",My chest feels tight,chest tightness symptom description variant 258,0.6
+Anger & Irritability,irritability,"irritated, annoyed",I get irritated easily,irritability symptom description variant 259,0.35
+Anger & Irritability,anger,"angry, frustrated",I get angry over small things,anger symptom description variant 260,0.45
+Physical Symptoms,chest tightness,"chest tight, pressure",My chest feels tight,chest tightness symptom description variant 261,0.6
+Sleep Disturbances,insomnia,"can't sleep, insomnia",I can't fall asleep at night,insomnia symptom description variant 262,0.4
+Panic Symptoms,panic attack,"panic, can't breathe",I had a panic attack,panic attack symptom description variant 263,0.75
+Stress & Burnout,burnout,"burnout, exhausted, drained",I feel burnt out from work,burnout symptom description variant 264,0.45
+Anger & Irritability,anger,"angry, frustrated",I get angry over small things,anger symptom description variant 265,0.45
+Crisis Indicators,suicidal ideation,"suicide, end life",I don't want to live anymore,suicidal ideation symptom description variant 266,0.95
+Physical Symptoms,fatigue,"tired, fatigue",I feel tired all day,fatigue symptom description variant 267,0.3
+Crisis Indicators,self-harm,"self harm, cut",I think about hurting myself,self-harm symptom description variant 268,0.9
+Panic Symptoms,panic attack,"panic, can't breathe",I had a panic attack,panic attack symptom description variant 269,0.75
+Panic Symptoms,panic attack,"panic, can't breathe",I had a panic attack,panic attack symptom description variant 270,0.75
+Anxiety & Worry,worry,"worry, anxious, nervous",I feel anxious all day,worry symptom description variant 271,0.35
+Cognitive Impairments,focus issues,"can't focus, distracted",I can't focus on my tasks,focus issues symptom description variant 272,0.35
+Sleep Disturbances,restlessness,"restless, waking up",I wake up multiple times,restlessness symptom description variant 273,0.45
+Depression & Mood,anhedonia,"no interest, cannot enjoy",I don't enjoy anything anymore,anhedonia symptom description variant 274,0.55
+Anxiety & Worry,worry,"worry, anxious, nervous",I feel anxious all day,worry symptom description variant 275,0.35
+Sleep Disturbances,restlessness,"restless, waking up",I wake up multiple times,restlessness symptom description variant 276,0.45
+Physical Symptoms,fatigue,"tired, fatigue",I feel tired all day,fatigue symptom description variant 277,0.3
+Crisis Indicators,suicidal ideation,"suicide, end life",I don't want to live anymore,suicidal ideation symptom description variant 278,0.95
+Anxiety & Worry,worry,"worry, anxious, nervous",I feel anxious all day,worry symptom description variant 279,0.35
+Trauma-Related,flashbacks,"flashback, memories",I keep seeing past events,flashbacks symptom description variant 280,0.7
+Anxiety & Worry,overthinking,"overthink, racing thoughts",My thoughts won't stop,overthinking symptom description variant 281,0.4
+Cognitive Impairments,memory issues,"forget, memory",I forget things easily,memory issues symptom description variant 282,0.4
+Stress & Burnout,burnout,"burnout, exhausted, drained",I feel burnt out from work,burnout symptom description variant 283,0.45
+Depression & Mood,anhedonia,"no interest, cannot enjoy",I don't enjoy anything anymore,anhedonia symptom description variant 284,0.55
+Depression & Mood,low mood,"sad, low, depressed",I'm feeling really down lately,low mood symptom description variant 285,0.5
+Trauma-Related,flashbacks,"flashback, memories",I keep seeing past events,flashbacks symptom description variant 286,0.7
+Depression & Mood,low mood,"sad, low, depressed",I'm feeling really down lately,low mood symptom description variant 287,0.5
+Crisis Indicators,suicidal ideation,"suicide, end life",I don't want to live anymore,suicidal ideation symptom description variant 288,0.95
+Depression & Mood,low mood,"sad, low, depressed",I'm feeling really down lately,low mood symptom description variant 289,0.5
+Cognitive Impairments,memory issues,"forget, memory",I forget things easily,memory issues symptom description variant 290,0.4
+Sleep Disturbances,insomnia,"can't sleep, insomnia",I can't fall asleep at night,insomnia symptom description variant 291,0.4
+Panic Symptoms,panic attack,"panic, can't breathe",I had a panic attack,panic attack symptom description variant 292,0.75
+Cognitive Impairments,memory issues,"forget, memory",I forget things easily,memory issues symptom description variant 293,0.4
+Depression & Mood,low mood,"sad, low, depressed",I'm feeling really down lately,low mood symptom description variant 294,0.5
+Sleep Disturbances,restlessness,"restless, waking up",I wake up multiple times,restlessness symptom description variant 295,0.45
+Cognitive Impairments,focus issues,"can't focus, distracted",I can't focus on my tasks,focus issues symptom description variant 296,0.35
+Cognitive Impairments,memory issues,"forget, memory",I forget things easily,memory issues symptom description variant 297,0.4
+Sleep Disturbances,restlessness,"restless, waking up",I wake up multiple times,restlessness symptom description variant 298,0.45
+Cognitive Impairments,memory issues,"forget, memory",I forget things easily,memory issues symptom description variant 299,0.4
+Stress & Burnout,burnout,"burnout, exhausted, drained",I feel burnt out from work,burnout symptom description variant 300,0.45
+Cognitive Impairments,focus issues,"can't focus, distracted",I can't focus on my tasks,focus issues symptom description variant 301,0.35
+Cognitive Impairments,memory issues,"forget, memory",I forget things easily,memory issues symptom description variant 302,0.4
+Cognitive Impairments,memory issues,"forget, memory",I forget things easily,memory issues symptom description variant 303,0.4
+Physical Symptoms,chest tightness,"chest tight, pressure",My chest feels tight,chest tightness symptom description variant 304,0.6
+Depression & Mood,anhedonia,"no interest, cannot enjoy",I don't enjoy anything anymore,anhedonia symptom description variant 305,0.55
+Anxiety & Worry,worry,"worry, anxious, nervous",I feel anxious all day,worry symptom description variant 306,0.35
+Crisis Indicators,self-harm,"self harm, cut",I think about hurting myself,self-harm symptom description variant 307,0.9
+Anger & Irritability,anger,"angry, frustrated",I get angry over small things,anger symptom description variant 308,0.45
+Anger & Irritability,anger,"angry, frustrated",I get angry over small things,anger symptom description variant 309,0.45
+Panic Symptoms,panic attack,"panic, can't breathe",I had a panic attack,panic attack symptom description variant 310,0.75
+Stress & Burnout,overload,"overload, overwhelmed",Everything feels overwhelming,overload symptom description variant 311,0.5
+Stress & Burnout,burnout,"burnout, exhausted, drained",I feel burnt out from work,burnout symptom description variant 312,0.45
+Stress & Burnout,overload,"overload, overwhelmed",Everything feels overwhelming,overload symptom description variant 313,0.5
+Panic Symptoms,racing heart,"heart racing, palpitations",My heart beats very fast suddenly,racing heart symptom description variant 314,0.7
+Anger & Irritability,irritability,"irritated, annoyed",I get irritated easily,irritability symptom description variant 315,0.35
+Anger & Irritability,irritability,"irritated, annoyed",I get irritated easily,irritability symptom description variant 316,0.35
+Anger & Irritability,anger,"angry, frustrated",I get angry over small things,anger symptom description variant 317,0.45
+Depression & Mood,anhedonia,"no interest, cannot enjoy",I don't enjoy anything anymore,anhedonia symptom description variant 318,0.55
+Anxiety & Worry,overthinking,"overthink, racing thoughts",My thoughts won't stop,overthinking symptom description variant 319,0.4
+Anxiety & Worry,overthinking,"overthink, racing thoughts",My thoughts won't stop,overthinking symptom description variant 320,0.4
+Panic Symptoms,racing heart,"heart racing, palpitations",My heart beats very fast suddenly,racing heart symptom description variant 321,0.7
+Cognitive Impairments,focus issues,"can't focus, distracted",I can't focus on my tasks,focus issues symptom description variant 322,0.35
+Panic Symptoms,panic attack,"panic, can't breathe",I had a panic attack,panic attack symptom description variant 323,0.75
+Depression & Mood,anhedonia,"no interest, cannot enjoy",I don't enjoy anything anymore,anhedonia symptom description variant 324,0.55
+Stress & Burnout,overload,"overload, overwhelmed",Everything feels overwhelming,overload symptom description variant 325,0.5
+Sleep Disturbances,restlessness,"restless, waking up",I wake up multiple times,restlessness symptom description variant 326,0.45
+Anxiety & Worry,worry,"worry, anxious, nervous",I feel anxious all day,worry symptom description variant 327,0.35
+Trauma-Related,flashbacks,"flashback, memories",I keep seeing past events,flashbacks symptom description variant 328,0.7
+Crisis Indicators,self-harm,"self harm, cut",I think about hurting myself,self-harm symptom description variant 329,0.9
+Cognitive Impairments,memory issues,"forget, memory",I forget things easily,memory issues symptom description variant 330,0.4
+Stress & Burnout,overload,"overload, overwhelmed",Everything feels overwhelming,overload symptom description variant 331,0.5
+Physical Symptoms,chest tightness,"chest tight, pressure",My chest feels tight,chest tightness symptom description variant 332,0.6
+Physical Symptoms,chest tightness,"chest tight, pressure",My chest feels tight,chest tightness symptom description variant 333,0.6
+Physical Symptoms,fatigue,"tired, fatigue",I feel tired all day,fatigue symptom description variant 334,0.3
+Cognitive Impairments,focus issues,"can't focus, distracted",I can't focus on my tasks,focus issues symptom description variant 335,0.35
+Depression & Mood,low mood,"sad, low, depressed",I'm feeling really down lately,low mood symptom description variant 336,0.5
+Stress & Burnout,burnout,"burnout, exhausted, drained",I feel burnt out from work,burnout symptom description variant 337,0.45
+Sleep Disturbances,restlessness,"restless, waking up",I wake up multiple times,restlessness symptom description variant 338,0.45
+Sleep Disturbances,restlessness,"restless, waking up",I wake up multiple times,restlessness symptom description variant 339,0.45
+Anxiety & Worry,worry,"worry, anxious, nervous",I feel anxious all day,worry symptom description variant 340,0.35
+Crisis Indicators,self-harm,"self harm, cut",I think about hurting myself,self-harm symptom description variant 341,0.9
+Physical Symptoms,chest tightness,"chest tight, pressure",My chest feels tight,chest tightness symptom description variant 342,0.6
+Stress & Burnout,burnout,"burnout, exhausted, drained",I feel burnt out from work,burnout symptom description variant 343,0.45
+Sleep Disturbances,insomnia,"can't sleep, insomnia",I can't fall asleep at night,insomnia symptom description variant 344,0.4
+Physical Symptoms,fatigue,"tired, fatigue",I feel tired all day,fatigue symptom description variant 345,0.3
+Sleep Disturbances,restlessness,"restless, waking up",I wake up multiple times,restlessness symptom description variant 346,0.45
+Depression & Mood,anhedonia,"no interest, cannot enjoy",I don't enjoy anything anymore,anhedonia symptom description variant 347,0.55
+Stress & Burnout,overload,"overload, overwhelmed",Everything feels overwhelming,overload symptom description variant 348,0.5
+Stress & Burnout,burnout,"burnout, exhausted, drained",I feel burnt out from work,burnout symptom description variant 349,0.45
+Cognitive Impairments,memory issues,"forget, memory",I forget things easily,memory issues symptom description variant 350,0.4
+Anger & Irritability,irritability,"irritated, annoyed",I get irritated easily,irritability symptom description variant 351,0.35
+Anxiety & Worry,overthinking,"overthink, racing thoughts",My thoughts won't stop,overthinking symptom description variant 352,0.4
+Depression & Mood,anhedonia,"no interest, cannot enjoy",I don't enjoy anything anymore,anhedonia symptom description variant 353,0.55
+Sleep Disturbances,restlessness,"restless, waking up",I wake up multiple times,restlessness symptom description variant 354,0.45
+Cognitive Impairments,focus issues,"can't focus, distracted",I can't focus on my tasks,focus issues symptom description variant 355,0.35
+Anger & Irritability,anger,"angry, frustrated",I get angry over small things,anger symptom description variant 356,0.45
+Trauma-Related,flashbacks,"flashback, memories",I keep seeing past events,flashbacks symptom description variant 357,0.7
+Cognitive Impairments,focus issues,"can't focus, distracted",I can't focus on my tasks,focus issues symptom description variant 358,0.35
+Crisis Indicators,self-harm,"self harm, cut",I think about hurting myself,self-harm symptom description variant 359,0.9
+Anxiety & Worry,worry,"worry, anxious, nervous",I feel anxious all day,worry symptom description variant 360,0.35
+Depression & Mood,anhedonia,"no interest, cannot enjoy",I don't enjoy anything anymore,anhedonia symptom description variant 361,0.55
+Physical Symptoms,chest tightness,"chest tight, pressure",My chest feels tight,chest tightness symptom description variant 362,0.6
+Stress & Burnout,overload,"overload, overwhelmed",Everything feels overwhelming,overload symptom description variant 363,0.5
+Stress & Burnout,overload,"overload, overwhelmed",Everything feels overwhelming,overload symptom description variant 364,0.5
+Crisis Indicators,suicidal ideation,"suicide, end life",I don't want to live anymore,suicidal ideation symptom description variant 365,0.95
+Trauma-Related,flashbacks,"flashback, memories",I keep seeing past events,flashbacks symptom description variant 366,0.7
+Anxiety & Worry,worry,"worry, anxious, nervous",I feel anxious all day,worry symptom description variant 367,0.35
+Stress & Burnout,overload,"overload, overwhelmed",Everything feels overwhelming,overload symptom description variant 368,0.5
+Anxiety & Worry,worry,"worry, anxious, nervous",I feel anxious all day,worry symptom description variant 369,0.35
+Depression & Mood,low mood,"sad, low, depressed",I'm feeling really down lately,low mood symptom description variant 370,0.5
+Anger & Irritability,anger,"angry, frustrated",I get angry over small things,anger symptom description variant 371,0.45
+Panic Symptoms,racing heart,"heart racing, palpitations",My heart beats very fast suddenly,racing heart symptom description variant 372,0.7
+Anxiety & Worry,overthinking,"overthink, racing thoughts",My thoughts won't stop,overthinking symptom description variant 373,0.4
+Sleep Disturbances,insomnia,"can't sleep, insomnia",I can't fall asleep at night,insomnia symptom description variant 374,0.4
+Anxiety & Worry,overthinking,"overthink, racing thoughts",My thoughts won't stop,overthinking symptom description variant 375,0.4
+Trauma-Related,flashbacks,"flashback, memories",I keep seeing past events,flashbacks symptom description variant 376,0.7
+Physical Symptoms,fatigue,"tired, fatigue",I feel tired all day,fatigue symptom description variant 377,0.3
+Stress & Burnout,overload,"overload, overwhelmed",Everything feels overwhelming,overload symptom description variant 378,0.5
+Depression & Mood,low mood,"sad, low, depressed",I'm feeling really down lately,low mood symptom description variant 379,0.5
+Crisis Indicators,suicidal ideation,"suicide, end life",I don't want to live anymore,suicidal ideation symptom description variant 380,0.95
+Panic Symptoms,panic attack,"panic, can't breathe",I had a panic attack,panic attack symptom description variant 381,0.75
+Anger & Irritability,anger,"angry, frustrated",I get angry over small things,anger symptom description variant 382,0.45
+Sleep Disturbances,restlessness,"restless, waking up",I wake up multiple times,restlessness symptom description variant 383,0.45
+Trauma-Related,hyperarousal,"on edge, startled",I'm always on edge,hyperarousal symptom description variant 384,0.65
+Anger & Irritability,irritability,"irritated, annoyed",I get irritated easily,irritability symptom description variant 385,0.35
+Anxiety & Worry,overthinking,"overthink, racing thoughts",My thoughts won't stop,overthinking symptom description variant 386,0.4
+Anger & Irritability,irritability,"irritated, annoyed",I get irritated easily,irritability symptom description variant 387,0.35
+Crisis Indicators,suicidal ideation,"suicide, end life",I don't want to live anymore,suicidal ideation symptom description variant 388,0.95
+Sleep Disturbances,insomnia,"can't sleep, insomnia",I can't fall asleep at night,insomnia symptom description variant 389,0.4
+Panic Symptoms,racing heart,"heart racing, palpitations",My heart beats very fast suddenly,racing heart symptom description variant 390,0.7
+Depression & Mood,anhedonia,"no interest, cannot enjoy",I don't enjoy anything anymore,anhedonia symptom description variant 391,0.55
+Depression & Mood,low mood,"sad, low, depressed",I'm feeling really down lately,low mood symptom description variant 392,0.5
+Trauma-Related,flashbacks,"flashback, memories",I keep seeing past events,flashbacks symptom description variant 393,0.7
+Anxiety & Worry,worry,"worry, anxious, nervous",I feel anxious all day,worry symptom description variant 394,0.35
+Physical Symptoms,fatigue,"tired, fatigue",I feel tired all day,fatigue symptom description variant 395,0.3
+Sleep Disturbances,restlessness,"restless, waking up",I wake up multiple times,restlessness symptom description variant 396,0.45
+Sleep Disturbances,restlessness,"restless, waking up",I wake up multiple times,restlessness symptom description variant 397,0.45
+Stress & Burnout,overload,"overload, overwhelmed",Everything feels overwhelming,overload symptom description variant 398,0.5
+Anxiety & Worry,overthinking,"overthink, racing thoughts",My thoughts won't stop,overthinking symptom description variant 399,0.4
+Depression & Mood,low mood,"sad, low, depressed",I'm feeling really down lately,low mood symptom description variant 400,0.5
+Cognitive Impairments,memory issues,"forget, memory",I forget things easily,memory issues symptom description variant 401,0.4
+Depression & Mood,low mood,"sad, low, depressed",I'm feeling really down lately,low mood symptom description variant 402,0.5
+Trauma-Related,hyperarousal,"on edge, startled",I'm always on edge,hyperarousal symptom description variant 403,0.65
+Crisis Indicators,suicidal ideation,"suicide, end life",I don't want to live anymore,suicidal ideation symptom description variant 404,0.95
+Stress & Burnout,burnout,"burnout, exhausted, drained",I feel burnt out from work,burnout symptom description variant 405,0.45
+Sleep Disturbances,restlessness,"restless, waking up",I wake up multiple times,restlessness symptom description variant 406,0.45
+Physical Symptoms,chest tightness,"chest tight, pressure",My chest feels tight,chest tightness symptom description variant 407,0.6
+Stress & Burnout,burnout,"burnout, exhausted, drained",I feel burnt out from work,burnout symptom description variant 408,0.45
+Stress & Burnout,overload,"overload, overwhelmed",Everything feels overwhelming,overload symptom description variant 409,0.5
+Crisis Indicators,self-harm,"self harm, cut",I think about hurting myself,self-harm symptom description variant 410,0.9
+Depression & Mood,low mood,"sad, low, depressed",I'm feeling really down lately,low mood symptom description variant 411,0.5
+Physical Symptoms,fatigue,"tired, fatigue",I feel tired all day,fatigue symptom description variant 412,0.3
+Trauma-Related,hyperarousal,"on edge, startled",I'm always on edge,hyperarousal symptom description variant 413,0.65
+Crisis Indicators,self-harm,"self harm, cut",I think about hurting myself,self-harm symptom description variant 414,0.9
+Physical Symptoms,fatigue,"tired, fatigue",I feel tired all day,fatigue symptom description variant 415,0.3
+Depression & Mood,low mood,"sad, low, depressed",I'm feeling really down lately,low mood symptom description variant 416,0.5
+Stress & Burnout,overload,"overload, overwhelmed",Everything feels overwhelming,overload symptom description variant 417,0.5
+Sleep Disturbances,restlessness,"restless, waking up",I wake up multiple times,restlessness symptom description variant 418,0.45
+Cognitive Impairments,memory issues,"forget, memory",I forget things easily,memory issues symptom description variant 419,0.4
+Physical Symptoms,fatigue,"tired, fatigue",I feel tired all day,fatigue symptom description variant 420,0.3
+Physical Symptoms,chest tightness,"chest tight, pressure",My chest feels tight,chest tightness symptom description variant 421,0.6
+Anger & Irritability,irritability,"irritated, annoyed",I get irritated easily,irritability symptom description variant 422,0.35
+Sleep Disturbances,restlessness,"restless, waking up",I wake up multiple times,restlessness symptom description variant 423,0.45
+Physical Symptoms,chest tightness,"chest tight, pressure",My chest feels tight,chest tightness symptom description variant 424,0.6
+Cognitive Impairments,focus issues,"can't focus, distracted",I can't focus on my tasks,focus issues symptom description variant 425,0.35
+Panic Symptoms,racing heart,"heart racing, palpitations",My heart beats very fast suddenly,racing heart symptom description variant 426,0.7
+Depression & Mood,anhedonia,"no interest, cannot enjoy",I don't enjoy anything anymore,anhedonia symptom description variant 427,0.55
+Sleep Disturbances,insomnia,"can't sleep, insomnia",I can't fall asleep at night,insomnia symptom description variant 428,0.4
+Trauma-Related,flashbacks,"flashback, memories",I keep seeing past events,flashbacks symptom description variant 429,0.7
+Anxiety & Worry,overthinking,"overthink, racing thoughts",My thoughts won't stop,overthinking symptom description variant 430,0.4
+Panic Symptoms,panic attack,"panic, can't breathe",I had a panic attack,panic attack symptom description variant 431,0.75
+Crisis Indicators,suicidal ideation,"suicide, end life",I don't want to live anymore,suicidal ideation symptom description variant 432,0.95
+Physical Symptoms,fatigue,"tired, fatigue",I feel tired all day,fatigue symptom description variant 433,0.3
+Anxiety & Worry,worry,"worry, anxious, nervous",I feel anxious all day,worry symptom description variant 434,0.35
+Crisis Indicators,self-harm,"self harm, cut",I think about hurting myself,self-harm symptom description variant 435,0.9
+Stress & Burnout,burnout,"burnout, exhausted, drained",I feel burnt out from work,burnout symptom description variant 436,0.45
+Physical Symptoms,chest tightness,"chest tight, pressure",My chest feels tight,chest tightness symptom description variant 437,0.6
+Anger & Irritability,irritability,"irritated, annoyed",I get irritated easily,irritability symptom description variant 438,0.35
+Stress & Burnout,burnout,"burnout, exhausted, drained",I feel burnt out from work,burnout symptom description variant 439,0.45
+Anger & Irritability,irritability,"irritated, annoyed",I get irritated easily,irritability symptom description variant 440,0.35
+Panic Symptoms,racing heart,"heart racing, palpitations",My heart beats very fast suddenly,racing heart symptom description variant 441,0.7
+Stress & Burnout,burnout,"burnout, exhausted, drained",I feel burnt out from work,burnout symptom description variant 442,0.45
+Anger & Irritability,irritability,"irritated, annoyed",I get irritated easily,irritability symptom description variant 443,0.35
+Anger & Irritability,anger,"angry, frustrated",I get angry over small things,anger symptom description variant 444,0.45
+Panic Symptoms,panic attack,"panic, can't breathe",I had a panic attack,panic attack symptom description variant 445,0.75
+Crisis Indicators,suicidal ideation,"suicide, end life",I don't want to live anymore,suicidal ideation symptom description variant 446,0.95
+Physical Symptoms,chest tightness,"chest tight, pressure",My chest feels tight,chest tightness symptom description variant 447,0.6
+Crisis Indicators,self-harm,"self harm, cut",I think about hurting myself,self-harm symptom description variant 448,0.9
+Cognitive Impairments,memory issues,"forget, memory",I forget things easily,memory issues symptom description variant 449,0.4
+Stress & Burnout,overload,"overload, overwhelmed",Everything feels overwhelming,overload symptom description variant 450,0.5
+Cognitive Impairments,memory issues,"forget, memory",I forget things easily,memory issues symptom description variant 451,0.4
+Anger & Irritability,anger,"angry, frustrated",I get angry over small things,anger symptom description variant 452,0.45
+Cognitive Impairments,memory issues,"forget, memory",I forget things easily,memory issues symptom description variant 453,0.4
+Depression & Mood,low mood,"sad, low, depressed",I'm feeling really down lately,low mood symptom description variant 454,0.5
+Depression & Mood,low mood,"sad, low, depressed",I'm feeling really down lately,low mood symptom description variant 455,0.5
+Depression & Mood,anhedonia,"no interest, cannot enjoy",I don't enjoy anything anymore,anhedonia symptom description variant 456,0.55
+Anger & Irritability,anger,"angry, frustrated",I get angry over small things,anger symptom description variant 457,0.45
+Panic Symptoms,racing heart,"heart racing, palpitations",My heart beats very fast suddenly,racing heart symptom description variant 458,0.7
+Anger & Irritability,anger,"angry, frustrated",I get angry over small things,anger symptom description variant 459,0.45
+Sleep Disturbances,insomnia,"can't sleep, insomnia",I can't fall asleep at night,insomnia symptom description variant 460,0.4
+Sleep Disturbances,restlessness,"restless, waking up",I wake up multiple times,restlessness symptom description variant 461,0.45
+Sleep Disturbances,restlessness,"restless, waking up",I wake up multiple times,restlessness symptom description variant 462,0.45
+Physical Symptoms,fatigue,"tired, fatigue",I feel tired all day,fatigue symptom description variant 463,0.3
+Cognitive Impairments,focus issues,"can't focus, distracted",I can't focus on my tasks,focus issues symptom description variant 464,0.35
+Anxiety & Worry,worry,"worry, anxious, nervous",I feel anxious all day,worry symptom description variant 465,0.35
+Depression & Mood,low mood,"sad, low, depressed",I'm feeling really down lately,low mood symptom description variant 466,0.5
+Physical Symptoms,fatigue,"tired, fatigue",I feel tired all day,fatigue symptom description variant 467,0.3
+Sleep Disturbances,insomnia,"can't sleep, insomnia",I can't fall asleep at night,insomnia symptom description variant 468,0.4
+Cognitive Impairments,memory issues,"forget, memory",I forget things easily,memory issues symptom description variant 469,0.4
+Physical Symptoms,chest tightness,"chest tight, pressure",My chest feels tight,chest tightness symptom description variant 470,0.6
+Panic Symptoms,racing heart,"heart racing, palpitations",My heart beats very fast suddenly,racing heart symptom description variant 471,0.7
+Depression & Mood,anhedonia,"no interest, cannot enjoy",I don't enjoy anything anymore,anhedonia symptom description variant 472,0.55
+Anger & Irritability,anger,"angry, frustrated",I get angry over small things,anger symptom description variant 473,0.45
+Trauma-Related,hyperarousal,"on edge, startled",I'm always on edge,hyperarousal symptom description variant 474,0.65
+Trauma-Related,flashbacks,"flashback, memories",I keep seeing past events,flashbacks symptom description variant 475,0.7
+Sleep Disturbances,restlessness,"restless, waking up",I wake up multiple times,restlessness symptom description variant 476,0.45
+Crisis Indicators,suicidal ideation,"suicide, end life",I don't want to live anymore,suicidal ideation symptom description variant 477,0.95
+Panic Symptoms,racing heart,"heart racing, palpitations",My heart beats very fast suddenly,racing heart symptom description variant 478,0.7
+Stress & Burnout,burnout,"burnout, exhausted, drained",I feel burnt out from work,burnout symptom description variant 479,0.45
+Sleep Disturbances,insomnia,"can't sleep, insomnia",I can't fall asleep at night,insomnia symptom description variant 480,0.4
+Panic Symptoms,racing heart,"heart racing, palpitations",My heart beats very fast suddenly,racing heart symptom description variant 481,0.7
+Trauma-Related,flashbacks,"flashback, memories",I keep seeing past events,flashbacks symptom description variant 482,0.7
+Stress & Burnout,overload,"overload, overwhelmed",Everything feels overwhelming,overload symptom description variant 483,0.5
+Sleep Disturbances,restlessness,"restless, waking up",I wake up multiple times,restlessness symptom description variant 484,0.45
+Sleep Disturbances,restlessness,"restless, waking up",I wake up multiple times,restlessness symptom description variant 485,0.45
+Physical Symptoms,chest tightness,"chest tight, pressure",My chest feels tight,chest tightness symptom description variant 486,0.6
+Crisis Indicators,self-harm,"self harm, cut",I think about hurting myself,self-harm symptom description variant 487,0.9
+Anxiety & Worry,overthinking,"overthink, racing thoughts",My thoughts won't stop,overthinking symptom description variant 488,0.4
+Trauma-Related,hyperarousal,"on edge, startled",I'm always on edge,hyperarousal symptom description variant 489,0.65
+Anxiety & Worry,overthinking,"overthink, racing thoughts",My thoughts won't stop,overthinking symptom description variant 490,0.4
+Anxiety & Worry,overthinking,"overthink, racing thoughts",My thoughts won't stop,overthinking symptom description variant 491,0.4
+Crisis Indicators,self-harm,"self harm, cut",I think about hurting myself,self-harm symptom description variant 492,0.9
+Anger & Irritability,irritability,"irritated, annoyed",I get irritated easily,irritability symptom description variant 493,0.35
+Anxiety & Worry,overthinking,"overthink, racing thoughts",My thoughts won't stop,overthinking symptom description variant 494,0.4
+Depression & Mood,low mood,"sad, low, depressed",I'm feeling really down lately,low mood symptom description variant 495,0.5
+Anxiety & Worry,overthinking,"overthink, racing thoughts",My thoughts won't stop,overthinking symptom description variant 496,0.4
+Anxiety & Worry,worry,"worry, anxious, nervous",I feel anxious all day,worry symptom description variant 497,0.35
+Anxiety & Worry,overthinking,"overthink, racing thoughts",My thoughts won't stop,overthinking symptom description variant 498,0.4
+Physical Symptoms,chest tightness,"chest tight, pressure",My chest feels tight,chest tightness symptom description variant 499,0.6
